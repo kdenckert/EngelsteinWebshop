@@ -1,4 +1,5 @@
 <section class="productBox first clearfix">
+    <!-- initial commit -->
     <h2 class="center">Apfelweiß Evo</h2>
     <div class="clearfix">
         <figure class="left">
