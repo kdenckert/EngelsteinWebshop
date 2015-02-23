@@ -1,4 +1,5 @@
 <section class="productBox first clearfix">
+    <!-- Hier wird wieder was geändert -->
     <h2 class="center">Apfelweiß Evo</h2>
     <div class="clearfix">
         <figure class="left">
