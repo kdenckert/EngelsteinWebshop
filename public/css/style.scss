@@ -1,0 +1,389 @@
+// Allg.
+// Variablen für Farben
+$lilahell: #82358c;
+$liladunkel: #461c4b;
+$grauschwarz: #333333;
+$hellgrau: #f1f1f1;
+$white: #fff;
+
+// p, a, li, h1, vordefinierung
+*{
+  font-family: Roboto-Regular, sans-serif !important;
+  line-height: 20px;
+}
+p, a, li{
+  font-family: Roboto-Regular;
+}
+.alternative{
+  display: none !important;
+
+}
+.clearfix:after {
+  content: ".";
+  clear: both;
+  display: block;
+  visibility: hidden;
+  height: 0px;
+}
+p.left{
+  text-align: center;
+  margin: 20px 0px;
+}
+div.left{
+  margin: 20px 0px;
+  text-align: center;
+}
+body{
+    background-color: $hellgrau;
+}
+// Header
+header{
+    height: 500px;
+    background-color: $white;
+    z-index: 500;
+    position: relative;
+    #logo{
+        width: 800px;
+        margin: auto;      
+    }
+    nav{
+    text-align: center;
+    // Liste erster Ordnung
+    & > ul li {
+      width: 100px;
+      display: inline-block;
+      // Hover
+      &:hover .level_2{
+        display: block !important;
+      }
+      // Bullets
+      & > a.bullet {
+        display: inline-block;
+        width: 30px;
+        height: 30px;
+        // Kommt raus
+        background: $grauschwarz;
+        margin: 20px;
+        -webkit-border-radius: 50px;
+        -moz-border-radius: 50px;
+        border-radius: 50px;
+      }
+    }
+    // Level_2 Navigation - Ausklappbox wird gehovert
+    ul{
+      &.level_2{
+        li{
+          width: 110px;
+          padding: 10px;
+          border-top: thin solid $white;
+          // Erster Listeneintrag mit .headline
+          &.headline{
+            background: $white;
+            font-family: Roboto-Bold;
+            color: $lilahell;
+          }
+          a{
+            font-size: 12px;
+            width: 100%;
+            color: $white;
+            text-decoration: none;
+            padding: 5px 0px;
+          }
+        }
+        margin-top: -2px;
+        margin-left: -15px;
+        display: none;
+        position: absolute;
+        min-height: 100px;
+        width: 130px;
+        background: $lilahell;
+      }
+    }
+  }
+  
+}
+.progress{
+  text-align: center;
+  padding: 0; height: 30px; width: 50%; background: gray; -moz-border-radius: 15px; -webkit-border-radius: 15px;
+  -o-border-radius: 15px; border-radius: 15px; float: none; margin: auto;
+  p{
+    padding: 7px 0; background: green; -moz-border-radius: 15px; -webkit-border-radius: 15px;
+    -o-border-radius: 15px; border-radius: 15px; color: white;
+  }
+}
+// slider
+#slider{
+    .content{
+        .slide{
+            figure{
+                text-align:center;
+                z-index: 5000;
+                margin-top: -100px;
+                position: relative;
+            }
+        }
+    }
+  /*
+      height: 300px;
+      position: absolute;
+      overflow: hidden;
+      top: 250px;
+      width: 100%;
+      left: 0;*/
+    #leftslide{
+        width: 70px;
+        height: 200px;
+        background-color: $lilahell;
+        position: absolute;
+        left: 0;
+        margin-top: -5px;
+        z-index: 5000;
+        &:hover{
+            cursor: pointer;
+        }
+        
+      }
+    #leftarrow{
+        padding-top: 90px;
+        margin-left: 20px;
+        display: inline-block;
+        position: absolute;
+        left: 0;
+    }
+    #rightslide{
+        width: 70px;
+        height: 200px;
+        background-color: $lilahell;
+        position: absolute;
+        right: 0;
+        margin-top: -5px;
+        z-index: 5000;
+        &:hover{
+            cursor: pointer;
+        }
+    }
+    #rightarrow{
+        padding-top: 90px;
+        margin-right: 20px;
+        position: absolute;
+        display: inline-block;
+        background-color: $lilahell;
+        right: 0;
+    }
+  /*
+    .content{
+        position: relative;
+        margin: auto;
+        padding: 0;
+        height: 300px;
+        list-style: none;
+        
+        img{
+            position: relative;
+            display: block;
+            float: left;
+            margin: 0;
+            padding: 0;
+            width: 500px;
+            height: 300px;
+            background: #ccc;
+            text-align: center;
+            line-height: 300px;
+            border-right: 3px solid $lilahell;
+            border-left: 3px solid $lilahell;
+        }
+        width: 505px;
+        margin: auto;
+        margin-top: 3%;
+        margin-bottom: 40px;
+    }*/
+  }
+// wrapper
+#wrapper{
+    width: 1100px;
+    height: 1000px;
+    margin: auto;
+    z-index: 5000;
+    h2{
+        color: $lilahell;
+        a{
+            color: $lilahell;
+        }
+    }
+    .info{
+        margin: auto;;
+        padding-top: 100px;
+        padding-left: 40px;
+        p{
+            a{
+                text-decoration: none;
+            }
+        }
+    }
+    .hochtoenerbox{
+        margin: auto;
+        height: 350px;
+        margin-top: 40px;
+        background-color: $white;
+        border-style: solid;
+        border-width: 5px;
+        border-color: $lilahell;
+        border-top-width: 0px;
+        
+        .hochtoenerinfo{
+            margin-left: 40px;
+            padding-top: 35px;
+            display: inline-block;
+            section{
+              float: left;
+              
+            }
+            .comments{
+                margin-left: 100px;
+                margin-top: 29px;
+                .lila{
+                    color: $lilahell;
+                }
+            }
+        }
+    }  
+    .extrabarleft{
+        margin: left;
+        width: 50%;
+        height: 50px;
+        background-color: $lilahell;
+        margin-top: 23px;
+        &:hover{
+            background-color: $liladunkel;
+            cursor: pointer;
+        }
+        p{
+            .detailseite{
+            margin-left: 40px;
+            padding-top: 15px;
+            display: inline-block;
+            color: $white;
+            text-decoration: none;
+            }    
+        }
+    }
+    .extrabarright{
+        width: 50%;
+        height: 50px;
+        background-color: $lilahell;
+        margin-top: -50px;
+        display: inline-block;
+        float: right;
+        &:hover{
+            background-color: $liladunkel;
+            cursor: pointer;
+        }
+        p{
+            .bestellen{
+            float: right;
+            margin-right: 40px;
+            padding-top: 0px;
+            display: inline-block;
+            color: $white;
+            text-decoration: none;
+            }   
+        }
+    }
+    #teaminfo{
+        top: 300px;
+        position: absolute;
+        border-style: solid;
+        border-left-width: 3px;
+        border-top-width: 0px;
+        border-bottom-width: 0px;
+        border-right-width: 0px;
+        border-color: $lilahell;
+        z-index: 5000;
+        h3{
+            color: $lilahell;
+            margin-left: 10px;
+        }
+        p{
+            margin-left: 10px;
+        }
+        
+    }
+    #team{
+        margin: auto;
+        width: 100%;
+        height: 800px;
+        // Buttons on Teamsite
+        .button{
+          position: relative;
+          width: 15%;
+          margin-right: 2%;
+          height: 100%;
+          float: left;
+          margin-top: 75px;
+          &:last-child {
+            margin-right: 0;
+          }
+          &:hover{
+              cursor:pointer;
+          }
+          // images inside of buttons
+          div{
+            height: 85%;
+            width: 100%;
+          }
+          .currentbutton{
+                background-color: #82358c;
+            }
+          // links: maybe some positioning issues if u change html dont know why
+          a{
+            display: inline-block;
+            padding: 27% 0;
+            width: 100%;
+            text-align: center;
+            background: grey;
+            text-decoration: none;
+            color: $white;
+            &:hover{
+              background: $lilahell;
+            }
+          }
+          // hidden content box
+          .contentbox{
+              display: none;
+              height: 800px;
+              width: 500px;
+              position: absolute;
+              top: 0;
+              left: 500px;
+              &:hover{
+                  cursor: default;
+              }
+              ul{
+                  li{
+                      //list image
+                      list-style-type: circle;
+                      margin-left: 20px;
+                      color: $grauschwarz;
+                  }
+              }
+              a{
+                display: inline-block;
+                padding: 0;
+                width: 30%;
+                text-align: left;
+                background: $hellgrau;
+                color: $grauschwarz;
+            }
+          }
+        }
+    }
+}
+
+// footer
+footer{
+    width: 100%;
+    margin: auto;
+    height: 200px;
+    margin-top: 50px;
+    background-color: $grauschwarz;
+}

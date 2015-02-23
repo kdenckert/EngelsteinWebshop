@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteBase /public
+RewriteRule ^([^/]*)$ /public/?p=$1 [L]

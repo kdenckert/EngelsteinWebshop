@@ -1,0 +1,178 @@
+* {
+  font-family: Roboto-Regular, sans-serif !important;
+  line-height: 20px; }
+
+p, a, li {
+  font-family: Roboto-Regular; }
+
+.wrapper {
+  width: 100%;
+  margin: auto;
+  padding: 10px; }
+
+body {
+  background: #eee; }
+
+.clearfix:after {
+  content: ".";
+  clear: both;
+  display: block;
+  visibility: hidden;
+  height: 0px; }
+
+.progress {
+  padding: 0;
+  height: 20px;
+  width: 80%;
+  background: gray;
+  -moz-border-radius: 15px;
+  -webkit-border-radius: 15px;
+  -o-border-radius: 15px;
+  border-radius: 15px;
+  float: none;
+  text-align: center; }
+  .progress p {
+    padding: 1px 0;
+    background: green;
+    -moz-border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -o-border-radius: 15px;
+    border-radius: 15px;
+    color: white;
+    font-size: 12px; }
+
+.chatBox p {
+  line-height: 14px;
+  margin: 2px 0px; }
+
+nav a {
+  display: inline-block;
+  padding: 10px;
+  color: white;
+  background: #333;
+  text-decoration: none;
+  margin: 10px 0px; }
+
+h1 {
+  font-size: 22px;
+  color: #333;
+  padding: 10px 0px;
+  font-weight: bold; }
+
+h2 {
+  font-size: 20px;
+  font-weight: bold;
+  color: #333;
+  padding: 20px 0px; }
+
+p, h1, h2, h3, h4, h5, h6, li {
+  line-height: 18px; }
+
+strong {
+  display: block;
+  font-weight: bold; }
+
+.protocol {
+  background: #f1f1f1;
+  border-top: thin solid black;
+  border-bottom: thin solid black;
+  margin-top: 20px; }
+  .protocol div.floatingContainer {
+    float: left;
+    width: 450px;
+    padding: 20px; }
+    .protocol div.floatingContainer h2 {
+      margin: 10px 0px; }
+    .protocol div.floatingContainer ul li {
+      line-height: 22px;
+      height: 45px; }
+      .protocol div.floatingContainer ul li p {
+        margin: 2px 0px; }
+
+.orderInformation li {
+  margin: 5px 0px;
+  font-weight: bold; }
+
+.chat {
+  position: fixed;
+  top: 0;
+  right: 0;
+  height: 150px;
+  width: 30%;
+  background: lightgrey;
+  border: thin solid #333; }
+  .chat ul.userlist {
+    position: absolute;
+    bottom: -20px; }
+    .chat ul.userlist li {
+      float: left;
+      margin-right: 10px; }
+  .chat .chatBox {
+    height: 85%;
+    width: 100%;
+    overflow-y: scroll; }
+  .chat .chatInput {
+    width: 100%;
+    background: white;
+    height: 15%; }
+
+label {
+  display: block; }
+
+section.controls {
+  margin-top: 20px; }
+  section.controls a {
+    display: inline-block !important;
+    color: white;
+    background: #333;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 14px; }
+
+.left {
+  float: left; }
+
+.overviewBox {
+  width: 320px;
+  margin: auto; }
+
+table.orderOverview {
+  width: 100%; }
+  table.orderOverview .openingdiv {
+    display: none; }
+  table.orderOverview tr.opener {
+    height: 50px;
+    cursor: pointer; }
+  table.orderOverview tr td {
+    padding: 5px; }
+    table.orderOverview tr td .openingdiv {
+      background: #ccc;
+      padding: 10px; }
+    table.orderOverview tr td nav {
+      padding: 20px 0px; }
+      table.orderOverview tr td nav a {
+        display: inline-block;
+        padding: 20px 30px;
+        text-decoration: none;
+        background: #333;
+        color: white;
+        margin-right: 10px; }
+      table.orderOverview tr td nav form {
+        display: inline; }
+        table.orderOverview tr td nav form input {
+          display: inline-block;
+          padding: 20px 30px;
+          text-decoration: none;
+          background: #333;
+          color: white;
+          margin-right: 10px;
+          font-size: 14px; }
+    table.orderOverview tr td h2 {
+      font-size: 20px;
+      padding: 2px 0px;
+      color: black; }
+    table.orderOverview tr td strong {
+      display: block;
+      font-size: 18px;
+      font-weight: bold;
+      margin: 5px 0px; }
