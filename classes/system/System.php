@@ -25,7 +25,7 @@ class System {
 
     public function systemSetup($switch = 'live'){
         if($switch = 'live'){
-            define('DB_HOST', 'mysql5.engelstein.de');
+            define('DB_HOST', 'mysql5.guitarstix.de');
             define('DB_NAME', 'db424797');
             define('DB_USER', 'db424797');
             define('DB_PASS', 'esdatabase2014');

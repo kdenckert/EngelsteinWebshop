@@ -12,7 +12,7 @@ class Session
         define('DB_HOST', 'mysql5.guitarstix.de');
         define('DB_NAME', 'db424797');
         define('DB_USER', 'db424797');
-        define('DB_PASS', 'Engelsteinbadass2014');
+        define('DB_PASS', 'esdatabase2014');
         /* END */
         if(!isset($_SESSION))
         {
