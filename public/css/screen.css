@@ -136,9 +136,6 @@ h4 {
   font-family: 'Roboto-Regular';
   font-size: 16px; }
 
-em {
-  line-height: 30px; }
-
 section.cart {
   height: 30px;
   width: 100%;
@@ -298,6 +295,14 @@ header {
       #wrapper .innerWrapper section.upcoming_wrapper article {
         float: left;
         width: 60%; }
+        #wrapper .innerWrapper section.upcoming_wrapper article p.left {
+          margin: 5px 0px;
+          font-size: 15px; }
+        #wrapper .innerWrapper section.upcoming_wrapper article h3 {
+          margin: 8px 0px; }
+        #wrapper .innerWrapper section.upcoming_wrapper article h4 {
+          font-size: 14px;
+          margin: 10px 0px; }
         #wrapper .innerWrapper section.upcoming_wrapper article div {
           padding: 10px 10px 10px 0;
           border-bottom: thin solid #CC463A;
@@ -308,10 +313,26 @@ header {
         float: right;
         width: 30%;
         margin-left: 10%; }
+        #wrapper .innerWrapper section.upcoming_wrapper aside h3, #wrapper .innerWrapper section.upcoming_wrapper aside h4, #wrapper .innerWrapper section.upcoming_wrapper aside p {
+          font-family: georgia; }
+        #wrapper .innerWrapper section.upcoming_wrapper aside h3 {
+          font-size: 16px;
+          font-family: Roboto-Light;
+          margin: 2px 0px; }
+        #wrapper .innerWrapper section.upcoming_wrapper aside h4 {
+          font-size: 14px;
+          margin: 0px 0px;
+          color: #a8362b; }
         #wrapper .innerWrapper section.upcoming_wrapper aside ul {
           margin-top: 10px; }
           #wrapper .innerWrapper section.upcoming_wrapper aside ul li {
             padding: 10px; }
+            #wrapper .innerWrapper section.upcoming_wrapper aside ul li p {
+              font-size: 14px;
+              margin: 2px 0px;
+              line-height: 18pt; }
+            #wrapper .innerWrapper section.upcoming_wrapper aside ul li a {
+              font-size: 12px; }
           #wrapper .innerWrapper section.upcoming_wrapper aside ul li:nth-child(odd) {
             background: rgba(47, 50, 61, 0.1); }
     #wrapper .innerWrapper section.aw-praesi {

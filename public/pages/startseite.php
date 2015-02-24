@@ -6,9 +6,7 @@
             <?php $date = strtotime($val['created']); $date = date("d.m.Y", $date); ?>
             <div class="open_upcoming clearfix">
                 <h3><?= ucfirst($val['headline']) ?></h3>
-
                 <p class="left"><em><?= $val['teaser'] ?></em></p>
-
                 <div style="display: none;">
                     <?= $val['content'] ?>
                 </div>
@@ -22,7 +20,8 @@
             <?php foreach($this->newsContent as $val) : ?>
                <?php $date = strtotime($val['created']); $date = date("d.m.Y", $date); ?>
             <li>
-                <h4><?= $date ?> - <?= $val['headline'] ?></h4>
+                <h3><?= $val['headline'] ?></h3>
+                <h4><?= $date ?> - von Ronny Stein</h4>
                 <!-- Inhalt kommt aus TinyMCE mit html-tags -->
                 <p><em> <?=$val['teaser'] ?></em></p>
                 <a href="news&amp;id=<?= $val['id'] ?>">Mehr erfahren....</a>

@@ -128,9 +128,7 @@ h3{ color: $keycolor;  font-family: 'Roboto-Light';  font-size: 18px;  }
 h4{
   color: $keycolor;  font-family: 'Roboto-Regular';  font-size: 16px;
 }
-em{
-  line-height: 30px;
-}
+
 // Headarea
 section.cart{
   height: 30px;
@@ -336,6 +334,19 @@ header{
       article{
         float: left;
         width: 60%;
+        p{
+          &.left{
+            margin: 5px 0px;
+            font-size: 15px;
+          }
+        }
+        h3{
+          margin: 8px 0px;
+        }
+        h4{
+          font-size: 14px;
+          margin: 10px 0px;
+        }
 
         div{
           padding: 10px 10px 10px 0;
@@ -352,10 +363,31 @@ header{
         float: right;
         width: 30%;
         margin-left: 10%;
+        h3, h4, p{
+          font-family: georgia;
+        }
+        h3{
+          font-size: 16px;
+          font-family: Roboto-Light;
+          margin: 2px 0px;
+        }
+        h4{
+          font-size: 14px;
+          margin: 0px 0px;
+          color: darken($keycolor, 10%);
+        }
         ul{
           margin-top: 10px;
           li{
             padding: 10px;
+            p{
+              font-size: 14px;
+              margin: 2px 0px;
+              line-height: 18pt;
+            }
+            a{
+              font-size: 12px;
+            }
           }
           li:nth-child(odd){
             background: rgba($lows, .1);
