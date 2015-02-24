@@ -1,3 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project version="4" />
-
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1805902727">
+    <data-source source="LOCAL" name="MySQL - db424797@mysql5.guitarstix.de" uuid="19671a33-b20e-4f4c-8344-cb9e5486f62a">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysql5.guitarstix.de:3306/db424797</jdbc-url>
+      <driver-properties>
+        <property name="zeroDateTimeBehavior" value="convertToNull" />
+        <property name="tinyInt1isBit" value="false" />
+        <property name="characterEncoding" value="utf8" />
+        <property name="characterSetResults" value="utf8" />
+        <property name="yearIsDateType" value="false" />
+        <property name="DBNAME" value="" />
+      </driver-properties>
+      <libraries />
+    </data-source>
+  </component>
+</project>
