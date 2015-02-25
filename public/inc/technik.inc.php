@@ -53,9 +53,8 @@
         <h3 class="left">Präsenzanpassung</h3>
 
         <p class="left">
-
-            Jede Abhörsituation weist einzigartige Bedingungen auf, wie unter anderem Raumgröße, Reflektionsflächen,
-            Abhörposition usw. Um den dadurch resultierenden Klangverfälschungen entgegenzuwirken, kann der Apfelweiß an
+            Jede Abhörsituation weist einzigartige Bedingungen auf, wie unter anderem Raumgröße, Reflektionsflächen oder
+            Abhörposition. Um den dadurch resultierenden Klangverfälschungen entgegen-zuwirken, kann der Apfelweiß an
             die Abhörsituation angepasst werden. Eine spezielle Anhebung der Höhen ermöglicht es dem Benutzer auf seine
             Umgegung zu reagieren und adaptiv den besseren Klang zu finden. Die Präsenzanpassung bietet drei
             Stufen, mit einer Anhebung von jeweils 2,5dB und 5dB pro Oktave. </p>

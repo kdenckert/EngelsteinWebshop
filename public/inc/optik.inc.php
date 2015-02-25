@@ -7,6 +7,9 @@
                     <a class="lightbox" href="public/img/farblogo.png" data-lightbox-gallery="gallery4" title="Freie Farbwahl der Apfelweiß Seitenwand">
                         <img src="public/img/farblogo.png" width="100%" alt="Freie Farbwahl der Apfelweiß Seitenwand"/>
                     </a>
+                    <a class="lightbox" href="public/img/farbpalette.png" title="Ein Auszug aus unserer Farbpalette" data-lightbox-gallery="gallery4">
+                        <img src="public/img/farbpalette.png" width="100%" alt="Farbpalette Apfelweiß von Engelstein"/>
+                    </a>
                 </div>
             </section>
         </figure>
