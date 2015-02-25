@@ -29,7 +29,7 @@
                 </div>
             </section>
         </figure>
-        <h3 class="right">Weiche</h3>
+        <h3 class="right">Weiche</h3>f
 
         <p class="left">
             Die Weiche ist das absolute Herzstück dieses Lautsprechers. Sie definiert die Klangeigenschaften wie kein
