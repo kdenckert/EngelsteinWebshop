@@ -4,8 +4,8 @@
         <figure class="left imgleftalign">
             <section class="theme-default nomargin">
                 <div class="imageSlider nivoSlider nomargin">
-                    <a class="lightbox" href="public/img/farblogo.png" title="Das ist eine Unterschrift">
-                        <img src="public/img/farblogo.png" width="100%" alt="Apfelweiß Evo"/>
+                    <a class="lightbox" href="public/img/farblogo.png" data-lightbox-gallery="gallery4" title="Freie Farbwahl der Apfelweiß Seitenwand">
+                        <img src="public/img/farblogo.png" width="100%" alt="Freie Farbwahl der Apfelweiß Seitenwand"/>
                     </a>
                 </div>
             </section>
@@ -14,17 +14,16 @@
 
         <p class="left">
             Der Lautsprecher kann problemlos an die optische Umgebung eines Tonstudios angepasst werden. Während die
-            Grundfarbe "Schönstes-Weiß-aller-Weiß´" bestehen bleibt, kann das Engelsteinlogo an der Aussenseite farblich
-            angepasst werden. Es stehen dabei 12 Farbtöne zur Auswahl. Somit kann sich der Apfelweiß nahtlos in jedes
-            Studioambiente einfügen. Er verprüht damit den Charme einer hochwertigen Einzelanfertigung, ganz einfach
-            weil er es ist. </p>
+            Grundfarbe in edlem Weiß bestehen bleibt, kann das Engelsteinlogo an der Außenseite farblich
+            angepasst werden. Es stehen dabei 11 Farbtöne zur Auswahl. Somit kann sich der Apfelweiß nahtlos in jedes
+            Studioambiente einfügen. Er verprüht damit den Charme einer hochwertigen Einzelanfertigung.</p>
     </div>
     <div class="first clearfix imgtext">
         <figure class="right imgrightalign">
             <section class="theme-default nomargin">
                 <div class="imageSlider nivoSlider nomargin">
-                    <a class="lightbox" href="public/img/farblogo.png" title="Das ist eine Unterschrift">
-                        <img src="public/img/farblogo.png" width="100%" alt="Apfelweiß Evo"/>
+                    <a class="lightbox" href="public/img/farblogo.png" data-lightbox-gallery="gallery5" title="Lackierungsvariante in Matt oder Hochglanz">
+                        <img src="public/img/farblogo.png" width="100%" alt="Lackierungsvariante in Matt oder Hochglanz"/>
                     </a>
                 </div>
             </section>
@@ -32,18 +31,18 @@
         <h3 class="right">Matt oder Hochglanz</h3>
 
         <p class="left">
-            Ein weiterer optischer Aspekt der dem persönlichen Geschmack angepasst werden kann ist die Oberfläche des
-            Lackes. Während die Grundfarbe in edlem Weiß bestehen bleibt kann zwischen den Lackvarianten
-            Matt und Hochglanz gewählt werden. Dabei ist einzig und allein entscheidend welcher Stil und welches
-            Ambiente in eurer Arbeitsumgebung unterstützt werden soll. Ein bisschen Understatement oder doch lieber die
+            Ein weiterer optischer Aspekt, der dem persönlichen Geschmack angepasst werden kann, ist die Oberfläche des
+            Lackes. Sie können zwischen den Lackvarianten
+            Matt und Hochglanz wählen. Dabei ist einzig und allein entscheidend, welcher Stil und welches
+            Ambiente in ihrer Arbeitsumgebung unterstützt werden soll. Ein bisschen Understatement oder doch lieber die
             klassische Eleganz.</p>
     </div>
     <div class="first clearfix imgtext">
         <figure class="left imgleftalign">
             <section class="theme-default nomargin">
                 <div class="imageSlider nivoSlider nomargin">
-                    <a class="lightbox" href="public/img/logodetail.png" title="Das ist eine Unterschrift">
-                        <img src="public/img/logodetail.png" width="100%" alt="Apfelweiß Evo"/>
+                    <a class="lightbox" href="public/img/logodetail.png" data-lightbox-gallery="gallery6" title="Der Apfelweiß glänzt mit einem Frontlogo aus Zirkon">
+                        <img src="public/img/logodetail.png" width="100%" alt="Der Apfelweiß glänzt mit einem Frontlogo aus Zirkon"/>
                     </a>
                 </div>
             </section>
@@ -51,9 +50,9 @@
         <h3 class="left">Frontlogo aus Zirkon</h3>
 
         <p class="left">
-            Um die hochwertige Erscheinung des Apfelweiss abzurunden wird das Frontlogo aus Zirkonium Hergestellt.
-            Dieses außergewöhnliche Material wird als Zahnersatz oder Schmuckstein verwendet und besitzt einzigartige
-            optische und habtische Eigenschaften. Wir benutzen es als kleinen Augenfang und Bestätigung unserer
+            Um die hochwertige Erscheinung des Apfelweiß abzurunden, wird das Frontlogo aus Zirkonium hergestellt.
+            Dieses außergewöhnliche Material wird in der Zahnmedizin oder als Schmuckstein verwendet und besitzt einzigartige
+            optische und haptische Eigenschaften. Wir benutzen es als kleinen Blickfang und Bestätigung unserer
             Philosophie, Perfektion bis ins Detail zu liefern. </p>
     </div>
 </section>

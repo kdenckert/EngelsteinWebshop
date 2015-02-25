@@ -49,8 +49,8 @@
                 <div class="label">Produkte</div>
                 <ul class="level_2">
                     <li><a href="produkte">Produktübersicht</a></li>
-                    <li><a href="apfelweiss">Apfelweiss</a></li>
-                    <li><a href="apfelweiss-student">Apfelweiss Student</a></li>
+                    <li><a href="apfelweiss">Apfelweiß Klassik</a></li>
+                    <li><a href="apfelweiss-student">Apfelweiß Student</a></li>
                 </ul>
 
             <li><a href="team" class="circle"><i class="fa fa-users"></i></a>

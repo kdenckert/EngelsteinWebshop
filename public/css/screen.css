@@ -159,7 +159,7 @@ nav.navi {
   margin: 10px 0px 20px;
   text-align: center; }
   nav.navi.smalnav {
-    margin: -10px 0 0 -41px; }
+    margin: -18px 0 0 -41px; }
     nav.navi.smalnav li:hover a i {
       color: white !important; }
     nav.navi.smalnav a.circle {

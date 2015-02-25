@@ -4,8 +4,8 @@
         <figure class="left imgleftalign">
             <section class="theme-default nomargin">
                 <div class="imageSlider nivoSlider nomargin">
-                    <a class="lightbox" href="public/img/httt.png" title="Das ist eine Unterschrift">
-                        <img src="public/img/httt.png" width="100%" alt="Apfelweiß Evo"/>
+                    <a class="lightbox" href="public/img/httt.png" data-lightbox-gallery="gallery7" title="Hochtöner und Tieftöner des Apfelweiß">
+                        <img src="public/img/httt.png" width="100%" alt="Hochtöner und Tieftöner des Apfelweiß"/>
                     </a>
                 </div>
             </section>
@@ -23,39 +23,41 @@
         <figure class="right imgrightalign">
             <section class="theme-default nomargin">
                 <div class="imageSlider nivoSlider nomargin">
-                    <a class="lightbox" href="public/img/weiche.png" title="Das ist eine Unterschrift">
-                        <img src="public/img/weiche.png" width="100%" alt="Apfelweiß Evo"/>
+                    <a class="lightbox" href="public/img/weiche.png" data-lightbox-gallery="gallery8" title="Die Weiche des Apfelweiß Lautsprechers">
+                        <img src="public/img/weiche.png" width="100%" alt="Die Weiche des Apfelweiß Lautsprechers"/>
                     </a>
                 </div>
             </section>
         </figure>
-        <h3 class="right">Weiche</h3>f
+        <h3 class="right">Weiche</h3>
 
         <p class="left">
             Die Weiche ist das absolute Herzstück dieses Lautsprechers. Sie definiert die Klangeigenschaften wie kein
             anderes elektrisches Bauteil. Sie wird in Handarbeit von unseren Ingenieuren zusammengesetzt, getestet und
-            in das Gehäuse eingebracht.Ihre raffinierte Bauweise ermöglicht die Frequenzielle Trennung der Hoch- und
-            Mitteltöner sowie die Möglichkeit einer pasiiven Raumanpassung. </p>
+            in das Gehäuse eingebracht. Ihre raffinierte Bauweise ermöglicht die trennung der Frequenzen, den Ausgleich
+            des Frequenzganges sowie die Präsenzanpassung.</p>
     </div>
     <div class="first clearfix imgtext">
         <figure class="left imgleftalign">
             <section class="theme-default nomargin">
                 <div class="imageSlider nivoSlider nomargin">
-                    <a class="lightbox" href="public/img/terminal.png" title="Das ist eine Unterschrift">
-                        <img src="public/img/terminal.png" width="100%" alt="Apfelweiß Evo"/>
+                    <a class="lightbox" href="public/img/terminal.png" data-lightbox-gallery="gallery9" title="Das Terminal des Apfelweiß Lautsprechers">
+                        <img src="public/img/terminal.png" width="100%" alt="Das Terminal des Apfelweiß Lautsprechers"/>
+                    </a>
+                    <a class="lightbox" href="public/img/schema-praesenzanpassung.png" data-lightbox-gallery="gallery9" title="Schematische Darstellung der Präsenzanpassung">
+                        <img src="public/img/schema-praesenzanpassung.png" width="100%" alt="Schematische Darstellung der Präsenzanpassung"/>
                     </a>
                 </div>
             </section>
         </figure>
-        <h3 class="left">Raumanpassung</h3>
+        <h3 class="left">Präsenzanpassung</h3>
 
         <p class="left">
 
-            Jede Abhörsituation weist einzigartige Bedingungen auf, wie z.B. Raumvolumen, Reflektionsflächen,
+            Jede Abhörsituation weist einzigartige Bedingungen auf, wie unter anderem Raumgröße, Reflektionsflächen,
             Abhörposition usw. Um den dadurch resultierenden Klangverfälschungen entgegenzuwirken, kann der Apfelweiß an
             die Abhörsituation angepasst werden. Eine spezielle Anhebung der Höhen ermöglicht es dem Benutzer auf seine
-            Umgegung zu reagieren und adaptiv den besseren Klang zu finden. Die Raumanpassung bietet 2 verschiedene
-            Stufen von jeweils 3dB7Okt & 6dB/Okt. Der Schalter befindet sich am Terminal und kann am entsprechenden
-            Monitor eingetellt werden.</p>
+            Umgegung zu reagieren und adaptiv den besseren Klang zu finden. Die Präsenzanpassung bietet drei
+            Stufen, mit einer Anhebung von jeweils 2,5dB und 5dB pro Oktave. </p>
     </div>
 </section>
