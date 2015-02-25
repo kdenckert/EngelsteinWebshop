@@ -1,6 +1,6 @@
-<section class="sound presentation">
+<section class="technical presentation">
     <div class="first clearfix imgtext">
-        <h2>Klangliche Eigenschaften</h2>
+        <h2>Technische Präsentation</h2>
         <figure class="left imgleftalign">
             <section class="theme-default nomargin">
                 <div class="imageSlider nivoSlider nomargin">

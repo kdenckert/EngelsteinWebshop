@@ -350,16 +350,18 @@ header {
         color: white;
         margin-bottom: -20px; }
       #wrapper .innerWrapper section.aw-praesi h2 {
-        font-family: Roboto-Thin; }
+        font-family: Roboto-Light; }
       #wrapper .innerWrapper section.aw-praesi h3 {
         border-bottom: thin dashed #CC463A;
         padding-bottom: 15px !important;
-        margin-bottom: 0px; }
+        margin-bottom: 0px;
+        width: 100%; }
       #wrapper .innerWrapper section.aw-praesi p {
-        line-height: 26px;
+        line-height: 24px;
         font-family: Roboto-Light;
         font-size: 16px;
-        color: #000; }
+        color: #000;
+        text-align: justify; }
       #wrapper .innerWrapper section.aw-praesi figure.speaker {
         margin: 20px 0; }
         #wrapper .innerWrapper section.aw-praesi figure.speaker img {
@@ -422,7 +424,7 @@ header {
             width: 53%; }
           #wrapper .innerWrapper section.aw-praesi .presentation div.imgtext h3 {
             float: left;
-            width: 30%;
+            width: 40%;
             padding: 0px 0px; }
       #wrapper .innerWrapper section.aw-praesi .intrest {
         margin: 40px 0px;

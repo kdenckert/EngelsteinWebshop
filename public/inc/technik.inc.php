@@ -11,23 +11,31 @@
             </section>
         </figure>
         <h3 class="left">Hochtöner / Mitteltöner</h3>
+
         <p class="left">
-            Durch die Verwendung extrem harter Materialien für Hoch und Mitteltöner ergeben sich die absolut fantastischen Eigenschaften unseres hochwertigen Monitors. Harte Materialien wie Keramik und Aluminium sind beständiger, schneller und vor allem unempfindlich gegen Schwankungen von Temperatur und Luftfeuchtigkeit. Sie verleihem dem Apfelweiss also siene herausragenden Klangeigenschaften und seine Widerstandsfähigkeit.        </p>
+            Durch die Verwendung extrem harter Materialien für Hoch- und Mitteltöner ergeben sich einige der besonderen
+            Eigenschaften dieses Monitors. Die Membranen aus harten Materialien wie Keramik und Aluminium weisen ein
+            schnelles An- und Abschwing Verhalten auf und sind unempfindlich gegen Schwankungen von Temperatur und
+            Luftfeutigkeit. Diese Eigenschaften verleihen dem Apfelweiß seine herausragenden Klangeigenschaften und
+            seine Widerstandsfähigkeit. </p>
     </div>
     <div class="first clearfix imgtext">
         <figure class="right imgrightalign">
             <section class="theme-default nomargin">
                 <div class="imageSlider nivoSlider nomargin">
-                    <a class="lightbox" href="public/img/farblogo.png" title="Das ist eine Unterschrift">
-                        <img src="public/img/farblogo.png" width="100%" alt="Apfelweiß Evo"/>
+                    <a class="lightbox" href="public/img/weiche.png" title="Das ist eine Unterschrift">
+                        <img src="public/img/weiche.png" width="100%" alt="Apfelweiß Evo"/>
                     </a>
                 </div>
             </section>
         </figure>
         <h3 class="right">Weiche</h3>
+
         <p class="left">
-            Die Weiche ist das absolute Herzstück eines jeden Lautsprechers. Sie definiert die Klangeigenschaften wie kein anderes Bauteil.
-            Auch sie wird in Handarbeit von unseren Ingenieuren zusammengesetzt, getestet und in das Gehäuse eingebracht. Natürich dürfen wir an dieser Stelle nicht zu viel verraten. Nur so viel, besonders stolz sind wir allein auf ihre wuchtige Erscheinung, hier wird klar: wir meinen es ernst!        </p>
+            Die Weiche ist das absolute Herzstück dieses Lautsprechers. Sie definiert die Klangeigenschaften wie kein
+            anderes elektrisches Bauteil. Sie wird in Handarbeit von unseren Ingenieuren zusammengesetzt, getestet und
+            in das Gehäuse eingebracht.Ihre raffinierte Bauweise ermöglicht die Frequenzielle Trennung der Hoch- und
+            Mitteltöner sowie die Möglichkeit einer pasiiven Raumanpassung. </p>
     </div>
     <div class="first clearfix imgtext">
         <figure class="left imgleftalign">
@@ -40,8 +48,14 @@
             </section>
         </figure>
         <h3 class="left">Raumanpassung</h3>
+
         <p class="left">
 
-            Jeder Abhörraum weist einzigartige Spezifika auf wie z.B. Raumvolumen, Möblierung sowie der Oberflächenbeschaffenheiten und die Anordnung der Wände usw. Um den dabei entstehenden Klangverfälschungen entgegenzuwirken haben wir die passive Raumanpassung entwickelt. Diese spezielle Anhebung der Höhen ermöglicht es den Apfelweiss auf seine Umgebung zu reagieren und adaptiv den besseren Klang zu finden. Sie funktioniert in 2 Unterschiedlichen Stufen die jeweils am entsprechenden Monitor eingestellt werden können.         </p>
+            Jede Abhörsituation weist einzigartige Bedingungen auf, wie z.B. Raumvolumen, Reflektionsflächen,
+            Abhörposition usw. Um den dadurch resultierenden Klangverfälschungen entgegenzuwirken, kann der Apfelweiß an
+            die Abhörsituation angepasst werden. Eine spezielle Anhebung der Höhen ermöglicht es dem Benutzer auf seine
+            Umgegung zu reagieren und adaptiv den besseren Klang zu finden. Die Raumanpassung bietet 2 verschiedene
+            Stufen von jeweils 3dB7Okt & 6dB/Okt. Der Schalter befindet sich am Terminal und kann am entsprechenden
+            Monitor eingetellt werden.</p>
     </div>
 </section>

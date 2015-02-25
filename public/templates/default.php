@@ -93,7 +93,7 @@
             <ul>
                 <li><img src="public/img/<?php echo $_GET['p']; ?>_icon_dark.png" height="200" alt=""/></li>
             </ul>
-            <h1><?= @ucwords($headline[0]) ?> <?= @ucwords($headline[1]) ?> <?= @ucwords($headline[2]) ?></h1>
+            <h1><?= @ucwords(str_replace('apfelweiss', 'apfelweiß', $headline[0])) ?> <?= @ucwords(str_replace('Apfelweiss', 'Apfelweiß', $headline[1])) ?> <?= @ucwords(str_replace('Apfelweiss', 'Apfelweiß', $headline[2])) ?></h1>
         <?php endif;?>
     </section>
 </header>

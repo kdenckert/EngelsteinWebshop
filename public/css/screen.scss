@@ -412,18 +412,20 @@ header{
         margin-bottom: -20px;
       }
       h2{
-        font-family: Roboto-Thin;
+        font-family: Roboto-Light;
       }
       h3{
         border-bottom: thin dashed $keycolor;
         padding-bottom: 15px !important;
         margin-bottom: 0px;
+        width: 100%;
       }
       p{
-        line-height: 26px;
+        line-height: 24px;
         font-family: Roboto-Light;
         font-size: 16px;
         color: #000;
+        text-align: justify;
       }
       figure.speaker{
         margin: 20px 0;
@@ -520,7 +522,7 @@ header{
             }
             h3{
               float: left;
-              width: 30%;
+              width: 40%;
               padding: 0px 0px;
             }
           }
