@@ -1,0 +1,24 @@
+#sms_form{
+    display: none;
+}
+textarea{
+    background: #DDDDDD;
+	border: thin solid #54535D;
+	border-radius: 10px;
+	resize: none;
+}
+input[type="submit"]:hover{
+    cursor: pointer;
+}
+input[type="submit"]{
+	width: 100px;
+	margin-left: 49px;
+}
+#sms_field{
+    position: fixed;
+    top: 45%;
+	width: 200px;
+}
+#sms_button{
+	margin-left: -2px;
+}
