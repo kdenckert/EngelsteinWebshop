@@ -4,8 +4,8 @@
         <figure class="left imgleftalign">
             <section class="theme-default nomargin">
                 <div class="imageSlider nivoSlider nomargin">
-                    <a class="lightbox" href="public/img/Linearer Frequenzverlauf der Apfelweiß Lautsprecher.png" title="Reduzierte harmonische Obertöne des Apfelweiß Lautsprechers">
-                        <img src="public/img/Linearer Frequenzverlauf der Apfelweiß Lautsprecher.png" width="100%" alt="Reduzierte harmonische Obertöne des Apfelweiß Lautsprechers"/>
+                    <a class="lightbox" href="public/img/ES_LS_Klippel_EVO_1.3_THD.png" title="Reduzierte harmonische Obertöne des Apfelweiß Lautsprechers">
+                        <img src="public/img/ES_LS_Klippel_EVO_1.3_THD.png" width="100%" alt="Reduzierte harmonische Obertöne des Apfelweiß Lautsprechers"/>
                     </a>
                 </div>
             </section>
