@@ -16,16 +16,22 @@
         <h3 class="left">Grundidee</h3>
 
         <p class="left">
-            Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-            Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis,
-            ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec.
+            Der Apfelweiß erhebt den Anpruch ein modernes zuverlässiges Mischwerkzeug in der täglichen tontechnischen
+            Arbeit zu sein. Er begründet diesen Anspruch durch seine klangliche Ausrichung. So erfolgt die Wiedergabe
+            der Frequenzen von 65 - 24000Hz besonders linear mit einer Abweichung von gerade einmal +/- 2,5dB. Des
+            weiteren sind die harmonischen Obertöne auf einem Klirrfaktor von ca. 0,1% reduziert. Die Abbildung der
+            Tiefenstaffelung erfolgt ebenfalls in einem besonderen Maße durch die Verwendung spezieller Membranen aus
+            harten und leichten Werkstoffen, wie Aluminium und Keramik. Diese Eigenschaften sollen helfen die
+            Klanganalyseprozesse der tontechnischen Arbeit zu Unterstützen.
+            evtl.Weitere Informationen können Sie den folgenden Unterpunkten und dem Whitepaper entnehmen.)
         </p>
     </div>
     <div class="first clearfix imgtext">
         <figure class="right imgrightalign">
             <section class="theme-default nomargin">
                 <div class="imageSlider nivoSlider nomargin">
-                    <a class="lightbox" href="public/img/karte.png" data-lightbox-gallery="gallery2" title="Engelstein Partner in Sachsen">
+                    <a class="lightbox" href="public/img/karte.png" data-lightbox-gallery="gallery2"
+                       title="Engelstein Partner in Sachsen">
                         <img src="public/img/karte.png" width="100%" alt="Engelstein Partner in Sachsen"/>
                     </a>
                 </div>
@@ -44,8 +50,10 @@
         <figure class="left imgleftalign">
             <section class="theme-default nomargin">
                 <div class="imageSlider nivoSlider nomargin">
-                    <a class="lightbox" href="public/img/material.png" data-lightbox-gallery="gallery3" title="Verwendete Materialien für den Apfelweiß von Engelstein">
-                        <img src="public/img/material.png" width="100%" alt="Verwendete Materialien für den Apfelweiß von Engelstein"/>
+                    <a class="lightbox" href="public/img/material.png" data-lightbox-gallery="gallery3"
+                       title="Verwendete Materialien für den Apfelweiß von Engelstein">
+                        <img src="public/img/material.png" width="100%"
+                             alt="Verwendete Materialien für den Apfelweiß von Engelstein"/>
                     </a>
                 </div>
             </section>
