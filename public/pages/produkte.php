@@ -24,7 +24,7 @@
             <li>Gewicht: 6,5Kg</li>
         </ul>
         <div class="price">
-            <p>ab 3.500,00 &euro;</p>
+            <p>ab 1.7500,00 &euro; / Stück</p>
         </div>
         <a href="apfelweiss" class="left longbutton">Zur Detailsseite</a>
         <a href="apfelweiss#order" class="right longbutton">zur Bestellung</a>
@@ -59,7 +59,7 @@
             <li>Gewicht: 5,7Kg</li>
         </ul>
         <div class="price">
-            <p>3.000,00 &euro;</p>
+            <p>1.500,00 &euro;/ Stück</p>
         </div>
         <a href="apfelweiss-student" class="left longbutton">Zur Detailsseite</a>
         <a href="apfelweiss-student#order" class="right longbutton">zur Bestellung</a>

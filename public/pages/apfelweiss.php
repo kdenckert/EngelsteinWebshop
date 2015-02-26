@@ -6,7 +6,7 @@
         <p>
             Der Apfelweiß ist ein passiver Nah- und Mittenfeldmonitor, entwickelt für die speziellen Hörbedürfnisse von Tontechnikern im Bereich der Studioproduktion.
             Er zeichnet sich besonders durch einen lineraen Frequenzverlauf, die präzise Wiedergabe von Räumlichkeit und minimierten harmonischen Obertöne aus.
-            Der Apfelweiß Evo ist in den Varianten Matt und Hochglanz erhältlich.
+            Der Apfelweiß Klassik ist in den Varianten Matt und Hochglanz erhältlich.
         </p>
     </section>
     <section class="intrest">

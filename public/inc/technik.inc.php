@@ -13,11 +13,11 @@
         <h3 class="left">Hochtöner / Mitteltöner</h3>
 
         <p class="left">
-            Durch die Verwendung extrem harter Materialien für Hoch- und Mitteltöner ergeben sich einige der besonderen
-            Eigenschaften dieses Monitors. Die Membranen aus harten Materialien wie Keramik und Aluminium weisen ein
-            schnelles An- und Abschwing Verhalten auf und sind unempfindlich gegen Schwankungen von Temperatur und
-            Luftfeutigkeit. Diese Eigenschaften verleihen dem Apfelweiß seine herausragenden Klangeigenschaften und
-            seine Widerstandsfähigkeit. </p>
+            Durch die Verwendung extrem harter Materialien für Hoch und Mitteltöner ergeben sich die absolut
+            fantastischen Eigenschaften unseres hochwertigen Monitors. Harte Materialien wie Keramik und Aluminium sind
+            beständiger, schneller und vor allem unempfindlich gegen Schwankungen von Temperatur und Luftfeuchtigkeit.
+            Sie verleihem dem Apfelweiss also siene herausragenden Klangeigenschaften und seine
+            Widerstandsfähigkeit. </p>
     </div>
     <div class="first clearfix imgtext">
         <figure class="right imgrightalign">
@@ -32,10 +32,12 @@
         <h3 class="right">Weiche</h3>
 
         <p class="left">
-            Die Weiche ist das absolute Herzstück dieses Lautsprechers. Sie definiert die Klangeigenschaften wie kein
-            anderes elektrisches Bauteil. Sie wird in Handarbeit von unseren Ingenieuren zusammengesetzt, getestet und
-            in das Gehäuse eingebracht. Ihre raffinierte Bauweise ermöglicht die trennung der Frequenzen, den Ausgleich
-            des Frequenzganges sowie die Präsenzanpassung.</p>
+            Die Weiche ist das absolute Herzstück eines jeden Lautsprechers. Sie definiert die Klangeigenschaften wie
+            kein anderes Bauteil.
+            Auch sie wird in Handarbeit von unseren Ingenieuren zusammengesetzt, getestet und in das Gehäuse
+            eingebracht. Natürich dürfen wir an dieser Stelle nicht zu viel verraten. Nur so viel, besonders stolz sind
+            wir allein auf ihre wuchtige Erscheinung, hier wird klar: wir meinen es ernst!</p>
+
     </div>
     <div class="first clearfix imgtext">
         <figure class="left imgleftalign">
