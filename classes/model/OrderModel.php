@@ -208,15 +208,17 @@ class OrderModel extends Model{
 
             <h2>Auftragsbestätigung</h2>
 
-            <p>Sehr geehrter '.ucfirst($customer['gender']).'  '.$customer['lastname'].',<br /><br />
-            herzlichen Glückwunsch, dass Sie sich für unsere Produkte entschieden haben.
-            Mit dieser eMail gehen wir nun einen gemeinsamen Vertrag ein.
-            Alles Nähere können Sie noch einmal in den angehängten Dokumenten nachlesen.
-            Sobald wir in den nächsten 14 Tagen Ihre Zahlung erhalten haben, werden wir mit unserer Hände Arbeit Ihr Abhörkunstwerk nach Ihren Wünschen erschaffen.
-            Bitte beachten Sie nochmals, dass diese Handarbeit ihre Zeit dauert.
-            Hier können Sie uns und dem Fortschritt ihrer Lautsprecher virtuell auf die Finger schauen.
-            Im folgenden Teil erhalten Sie eine detaillierte Auflistung aller Vertragsbestandteile,
-            bitte prüfen Sie alle Konditionen genau nach.
+            <p>
+                Sehr geehrter '.ucfirst($customer['gender']).'  '.$customer['lastname'].',<br /><br />
+                herzlichen Glückwunsch, dass Sie sich für unsere Produkte entschieden haben.
+                Mit dieser eMail gehen wir nun einen gemeinsamen Vertrag ein.
+                Alles Nähere können Sie noch einmal in den angehängten Dokumenten nachlesen.
+                Sobald wir in den nächsten 14 Tagen Ihre Zahlung erhalten haben, werden wir mit unserer Hände Arbeit Ihr Abhörkunstwerk nach Ihren Wünschen erschaffen.
+                Bitte beachten Sie:
+                Die maximale Lieferzeit beträgt 20 Werktage s. ABG
+                Hier können Sie uns und dem Fortschritt ihrer Lautsprecher virtuell auf die Finger schauen.
+                Im folgenden Teil erhalten Sie eine detaillierte Auflistung aller Vertragsbestandteile,
+                bitte prüfen Sie alle Konditionen genau nach.
             </p>
             <p>
                 Auftrags-/Rechnungsnummer: '.$contractnr.' <br />
@@ -396,7 +398,7 @@ class OrderModel extends Model{
 // email stuff (change data below)
         $to = $customer['email'];
         $from = "info@engelstein.de";
-        $subject = "Bestätigung ihrer Bestellung auf Engelstein.de";
+        $subject = "Bestätigung ihrer Bestellung bei Engelstein.de";
         $antwortan  = "info@engelstein.de";
 
 

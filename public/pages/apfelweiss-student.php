@@ -1,6 +1,6 @@
 <section class="aw-praesi">
     <figure class="speaker">
-        <img src="public/img/apfelweis-teaser.png" width="900" alt="Apfelweiß Evo"/>
+        <img src="public/img/apfelweis-student.png" width="879" alt="Apfelweiß Evo"/>
     </figure>
     <section class="intro">
         <p>

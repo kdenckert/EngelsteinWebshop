@@ -136,6 +136,14 @@ h4 {
   font-family: 'Roboto-Regular';
   font-size: 16px; }
 
+figure.productspeaker img {
+  margin: 10px;
+  /*
+  -webkit-box-shadow: 0px 0px 5px 0px rgba($lows, .4);
+  -moz-box-shadow: 0px 0px 5px 0px rgba($lows, .4);
+  box-shadow: 0px 0px 5px 0px rgba($lows, .4);*/
+  border: thin solid rgba(47, 50, 61, 0.3); }
+
 section.cart {
   height: 30px;
   width: 100%;
@@ -718,7 +726,8 @@ header {
     #wrapper section.productBox ul {
       list-style-type: disc !important;
       width: 31%;
-      margin-left: 25px; }
+      margin-left: 25px;
+      margin-top: 10px; }
       #wrapper section.productBox ul li {
         font-size: 13px;
         line-height: 16pt !important; }

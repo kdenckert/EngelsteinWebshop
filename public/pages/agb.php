@@ -22,7 +22,7 @@
     zustande.
 </p>
 <p>
-    (3) Die Präsentation der Waren in unserem Internetshop stellt kein rechtlich bindendes Vertragsangebot unsererseits dar, sondern sind nur eine unverbindliche Aufforderungen an den Verbraucher, Waren zu bestellen. Mit der Bestellung der gewünschten Ware gibt der Verbraucher ein für ihn verbindliches Angebot auf Abschluss eines Kaufvertrages ab.
+    (3) Die Präsentation der Waren in unserem Internetshop stellt kein rechtlich bindendes Vertragsangebot unsererseits dar, sondern ist nur eine unverbindliche Aufforderung an den Verbraucher, Waren zu bestellen. Mit der Bestellung der gewünschten Ware gibt der Verbraucher ein für ihn verbindliches Angebot auf Abschluss eines Kaufvertrages ab.
     <br/> <br/>
     (4) Bei Eingang einer Bestellung in unserem Internetshop gelten folgende Regelungen: Der Verbraucher gibt ein bindendes Vertragsangebot ab, indem er die in unserem Internetshop vorgesehene Bestellprozedur erfolgreich durchläuft.
 </p>
@@ -47,7 +47,7 @@
     <br/><br/>
     (3) Hat der Verbraucher die Zahlung per Vorkasse gewählt, so verpflichtet er sich, den Kaufpreis unverzüglich nach Vertragsschluss zu zahlen.
     §4 Lieferung<br/><br/>
-    (1) Sofern wir dies in der Produktbeschreibung nicht deutlich anders angegeben haben, werden alle von uns angebotenen Artikel nach Kundenauftrag gefertigt. Die Lieferung erfolgt hier spätesten innerhalb von 20 Werktagen. Dabei beginnt die Frist für die Lieferung im Falle der Zahlung per Vorkasse am Tag nach Zahlungsauftrag an die mit der Überweisung beauftragte Bank und bei allen anderen Zahlungsarten am Tag nach Vertragsschluss zu laufen. Fällt das Fristende auf einen Samstag, Sonntag oder gesetzlichen Feiertag am Lieferort, so endet die Frist am nächsten Werktag.
+    (1) Sofern wir dies in der Produktbeschreibung nicht deutlich anders angegeben haben, werden alle von uns angebotenen Artikel nach Kundenauftrag gefertigt. Die Lieferung erfolgt hier spätestens innerhalb von 20 Werktagen. Dabei beginnt die Frist für die Lieferung im Falle der Zahlung per Vorkasse am Tag nach Zahlungsauftrag an die mit der Überweisung beauftragte Bank und bei allen anderen Zahlungsarten am Tag nach Vertragsschluss zu laufen. Fällt das Fristende auf einen Samstag, Sonntag oder gesetzlichen Feiertag am Lieferort, so endet die Frist am nächsten Werktag.
     <br/><br/>
     (2) Die Gefahr des zufälligen Untergangs und der zufälligen Verschlechterung der verkauften Sache geht auch beim Versendungskauf erst mit der Übergabe der Sache an den Käufer auf diesen über.
     §5 Eigentumsvorbehalt<br/><br/>

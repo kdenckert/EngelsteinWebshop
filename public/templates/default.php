@@ -70,7 +70,7 @@
             </ul>
         </nav>
         <section class="slider">
-            <?php if($_GET['p'] == 'startseite' || $_GET['p'] == ''): ?>
+            <?php if($_GET['p'] == 'startseite' || $_GET['p'] == '') : ?>
                 <div class="slider-wrapper theme-default">
                     <div class="ribbon"></div>
                     <div class="imageSlider nivoSlider">
@@ -89,11 +89,15 @@
                     </div>
 
                 </div>
-            <?php else: ?>
+            <?php elseif($_GET['p'] == 'apfelweiss-student' || $_GET['p'] == 'apfelweiss') : ?>
                 <ul>
-                    <li><img src="public/img/<?php echo $_GET['p']; ?>_icon_dark.png" height="200" alt=""/></li>
+                    <li></li>
                 </ul>
-                <h1><?= @ucwords(str_replace('apfelweiss', 'apfelweiß', $headline[0])) ?> <?= @ucwords(str_replace('Apfelweiss', 'Apfelweiß', $headline[1])) ?> <?= @ucwords(str_replace('Apfelweiss', 'Apfelweiß', $headline[2])) ?></h1>
+            <?php else : ?>
+                    <ul>
+                        <li><img src="public/img/<?php echo $_GET['p']; ?>_icon_dark.png" height="200" alt=""/></li>
+                    </ul>
+                    <h1><?= @ucwords(str_replace('apfelweiss', '', $headline[0])) ?> <?= @ucwords(str_replace('student', '', $headline[1])) ?> <?= @ucwords(str_replace('Apfelweiss', 'Apfelweiß', $headline[2])) ?></h1>
             <?php endif;?>
         </section>
     </header>
@@ -121,15 +125,15 @@
                 <h3>Produkte</h3>
                 <ul>
                     <li><a href="produkte">Produkte</a></li>
-                    <li><a href="apfelweiss">Apfelweiss</a></li>
-                    <li><a href="apfelweiss-student">Apfelweiss Student</a></li>
+                    <li><a href="apfelweiss">Apfelweiß</a></li>
+                    <li><a href="apfelweiss-student">Apfelweiß Student</a></li>
                 </ul>
             </div>
             <div class="left contact">
                 <h3>Schnellkontakt</h3>
                 <p>
                     Engelstein UG<br />
-                    (haftungsunbeschränkt)
+                    (haftungsbeschränkt)
                     <br /><br />
                     Salomonstraße 26 - 28<br />
                     04103 Leipzig

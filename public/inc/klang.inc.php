@@ -1,11 +1,61 @@
 <section class="sound presentation">
+
+
     <div class="first clearfix imgtext">
         <h2>Klangliche Eigenschaften</h2>
         <figure class="left imgleftalign">
             <section class="theme-default nomargin">
                 <div class="imageSlider nivoSlider nomargin">
-                    <a class="lightbox" href="public/img/ES_LS_Klippel_EVO_1.3_THD.png" title="Reduzierte harmonische Obertöne des Apfelweiß Lautsprechers">
-                        <img src="public/img/ES_LS_Klippel_EVO_1.3_THD.png" width="100%" alt="Reduzierte harmonische Obertöne des Apfelweiß Lautsprechers"/>
+                    <a class="lightbox" href="public/img/ES_LS_Klippel_EVO_1.3_THD.png"
+                       title="Reduzierte harmonische Obertöne des Apfelweiß Lautsprechers">
+                        <img src="public/img/ES_LS_Klippel_EVO_1.3_THD.png" width="100%"
+                             alt="Reduzierte harmonische Obertöne des Apfelweiß Lautsprechers"/>
+                    </a>
+                </div>
+            </section>
+        </figure>
+        <h3 class="left">Grundidee</h3>
+
+        <p class="left">
+            Der Apfelweiß erhebt den Anpruch ein modernes zuverlässiges Mischwerkzeug in der täglichen tontechnischen
+            Arbeit zu sein. Er begründet diesen Anspruch durch seine klangliche Ausrichung. So erfolgt die Wiedergabe
+            der Frequenzen von 65 - 24000Hz besonders linear mit einer Abweichung von gerade einmal +/- 2,5dB. Des
+            weiteren sind die harmonischen Obertöne auf einem Klirrfaktor von ca. 0,1% reduziert. Die Abbildung der
+            Tiefenstaffelung erfolgt ebenfalls in einem besonderen Maße durch die Verwendung spezieller Membranen aus
+            harten und leichten Werkstoffen, wie Aluminium und Keramik. Diese Eigenschaften sollen helfen die
+            Klanganalyseprozesse der tontechnischen Arbeit zu Unterstützen.
+            Genauere Informationen können Sie den folgenden Unterpunkten und dem Whitepaper entnehmen.</p>
+    </div>
+    <div class="first clearfix imgtext">
+        <figure class="right imgrightalign">
+            <section class="theme-default nomargin">
+                <div class="imageSlider nivoSlider nomargin">
+                    <a class="lightbox"
+                       href="public/img/ES_LS_Klippel_EVO_1.3_Frequency_Response_Small_Resolution_Compensated.png"
+                       title="Linearer Frequenzverlauf der Apfelweiß Lautsprecher">
+                        <img src="public/img/ES_LS_Klippel_EVO_1.3_Frequency_Response_Small_Resolution_Compensated.png"
+                             width="100%" alt="Linearer Frequenzverlauf der Apfelweiß Lautsprecher"/>
+                    </a>
+                </div>
+            </section>
+        </figure>
+        <h3 class="right">Linearer Frequenzverlauf</h3>
+
+        <p class="left">
+            Um eine Bewertung der Lautstärkerverteilung von Signalen zu ermöglichen darf der Schallwandler selbst keine
+            Unterschiede der Pegel verursachen. Die wiedergegebenen Frequenzen müssen über das gesamte Frequenzspektrum
+            hinweg in Ihrer Lautstärke angeglichen werden. Der Apfelweiß erreicht dabei eine Schwankung von gerade
+            einmal +/-2,5dB über den gesamten Frequenzverlauf von 65 - 24000 Hz.
+        </p>
+    </div>
+    <div class="first clearfix imgtext">
+        <figure class="left imgleftalign">
+            <section class="theme-default nomargin">
+                <div class="imageSlider nivoSlider nomargin">
+                    <a class="lightbox" href="public/img/ES_LS_Klippel_EVO_1.3_THD.png"
+                       title="Reduzierte harmonische Obertöne des Apfelweiß Lautsprechers">
+                        <img src="public/img/ES_LS_Klippel_EVO_1.3_THD.png" width="100%"
+                             alt="Reduzierte harmonische Obertöne des Apfelweiß Lautsprechers"/>
                     </a>
                 </div>
             </section>
@@ -20,23 +70,5 @@
             neutralen Lautsprechers zu entsprechen. Die beistehende Grafik zeigt die Ausprägung der ungewollten
             harmonischen Schwingungen über den gesamten Frequenzbereich.</p>
     </div>
-    <div class="first clearfix imgtext">
-        <figure class="right imgrightalign">
-            <section class="theme-default nomargin">
-                <div class="imageSlider nivoSlider nomargin">
-                    <a class="lightbox" href="public/img/ES_LS_Klippel_EVO_1.3_Frequency_Response_Small_Resolution_Compensated.png" title="Linearer Frequenzverlauf der Apfelweiß Lautsprecher">
-                        <img src="public/img/ES_LS_Klippel_EVO_1.3_Frequency_Response_Small_Resolution_Compensated.png" width="100%" alt="Linearer Frequenzverlauf der Apfelweiß Lautsprecher"/>
-                    </a>
-                </div>
-            </section>
-        </figure>
-        <h3 class="right">Linearer Frequenzverlauf</h3>
 
-        <p class="left">
-            Um eine Bewertung der Lautstärkerverteilung von Signalen zu ermöglichen darf der Schallwandler selbst keine
-            Unterschiede der Pegel verursachen. Die wiedergegebenen Frequenzen müssen über das gesamte Frequenzspektrum
-            hinweg in Ihrer Lautstärke angeglichen werden. Der Apfelweiß erreicht dabei eine Schwankung von gerade
-            einmal +/-2,5dB über den gesamten Frequenzverlauf von 65 - 24000 Hz.
-        </p>
-    </div>
 </section>

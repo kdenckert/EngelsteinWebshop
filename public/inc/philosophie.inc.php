@@ -16,14 +16,11 @@
         <h3 class="left">Grundidee</h3>
 
         <p class="left">
-            Der Apfelweiß erhebt den Anpruch ein modernes zuverlässiges Mischwerkzeug in der täglichen tontechnischen
-            Arbeit zu sein. Er begründet diesen Anspruch durch seine klangliche Ausrichung. So erfolgt die Wiedergabe
-            der Frequenzen von 65 - 24000Hz besonders linear mit einer Abweichung von gerade einmal +/- 2,5dB. Des
-            weiteren sind die harmonischen Obertöne auf einem Klirrfaktor von ca. 0,1% reduziert. Die Abbildung der
-            Tiefenstaffelung erfolgt ebenfalls in einem besonderen Maße durch die Verwendung spezieller Membranen aus
-            harten und leichten Werkstoffen, wie Aluminium und Keramik. Diese Eigenschaften sollen helfen die
-            Klanganalyseprozesse der tontechnischen Arbeit zu Unterstützen.
-            evtl.Weitere Informationen können Sie den folgenden Unterpunkten und dem Whitepaper entnehmen.)
+            Den Apfelweiß einfach nur als Lautsprecher mit guten Klangeigenschaften zu beschreiben wird seinem Anspruch
+            nicht gerecht. Er ist viel mehr ein modernenes Mischwerkzeug ausgelegt auf die Notwendigkeiten der
+            tontechnischen Arbeit. Dieser Ansatz bestätigt sich vor allem in der klanglichen Ausrichtung dieses
+            Monitors. Darüber hinaus vereint er höchte Ansprüche an die optische Verarbeitung und an die Langlebigkeit.
+            Er ist unser Angebot für die moderne audiophile Welt.
         </p>
     </div>
     <div class="first clearfix imgtext">
@@ -41,10 +38,10 @@
 
         <p class="left">
             Jeder Herstellungsschritt unserer Produkte erfolgt ausschließlich in Deutschland. Damit streben wir an, dass
-            unsere Produkte menschenwürdig hergestellt, Löhne nach guten Standards gezahlt sowie hohe technische
+            unsere Produkte menschenwürdig hergestellt, Löhne nach guten Standards gezahlt, sowie hohe technische
             Anforderungen erfüllt werden. Natürlich stellen wir auch sicher, dass unsere Produkte sowohl in der
-            Herstellung als auch nach deren Benutzung innerhalb der strengen Regeln des ElektroG Umweltgerecht und
-            Ressourcenschonend entsorgt werden.</p>
+            Herstellung, als auch nach deren Benutzung innerhalb der strengen Regeln des ElektroG umweltgerecht und
+            ressourcenschonend entsorgt werden.</p>
     </div>
     <div class="first clearfix imgtext">
         <figure class="left imgleftalign">
