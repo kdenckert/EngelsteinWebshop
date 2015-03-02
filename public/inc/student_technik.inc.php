@@ -16,15 +16,15 @@
             Durch die Verwendung extrem harter Materialien für Hoch und Mitteltöner ergeben sich die absolut
             fantastischen Eigenschaften unseres hochwertigen Monitors. Harte Materialien wie Keramik und Aluminium sind
             beständiger, schneller und vor allem unempfindlich gegen Schwankungen von Temperatur und Luftfeuchtigkeit.
-            Sie verleihem dem Apfelweiss also siene herausragenden Klangeigenschaften und seine
+            Sie verleihen dem Apfelweiß also seine herausragenden Klangeigenschaften und seine
             Widerstandsfähigkeit. </p>
     </div>
     <div class="first clearfix imgtext">
         <figure class="right imgrightalign">
             <section class="theme-default nomargin">
                 <div class="imageSlider nivoSlider nomargin">
-                    <a class="lightbox" href="public/img/farblogo.png" title="Das ist eine Unterschrift">
-                        <img src="public/img/farblogo.png" width="100%" alt="Apfelweiß Evo"/>
+                    <a class="lightbox" href="public/img/weiche.png" title="Das ist eine Unterschrift">
+                        <img src="public/img/weiche.png" width="100%" alt="Apfelweiß Evo"/>
                     </a>
                 </div>
             </section>
@@ -32,11 +32,11 @@
         <h3 class="right">Weiche</h3>
 
         <p class="left">
-            Die Weiche ist das absolute Herzstück eines jeden Lautsprechers. Sie definiert die Klangeigenschaften wie
-            kein anderes Bauteil.
-            Auch sie wird in Handarbeit von unseren Ingenieuren zusammengesetzt, getestet und in das Gehäuse
-            eingebracht. Natürich dürfen wir an dieser Stelle nicht zu viel verraten. Nur so viel, besonders stolz sind
-            wir allein auf ihre wuchtige Erscheinung, hier wird klar: wir meinen es ernst! TEASER FREQUEZWEICHE</p>
+            Die Frequenzweiche ist das absolute Herzstück dieses Lautsprechers. Sie definiert die Klangeigenschaften wie
+            kein anderes elektrisches Bauteil. Sie wird in Handarbeit von unseren Ingenieuren zusammengesetzt, getestet
+            und in das Gehäuse eingebracht. Ihre raffinierte Bauweise ermöglicht die Trennung der Hoch- und Mitteltöner
+            und ist auch für die Frequenzverteilung zuständig. Als ganz Besondere Zugabe haben wir bei dem Produkt Apfelweiß Klassik ausserdem die
+            Möglichkeit einer passiven Raumanpassung integriert. </p>
     </div>
 
 </section>

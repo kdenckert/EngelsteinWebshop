@@ -278,8 +278,9 @@ class OrderModel extends Model{
             </table>
 
             <p>Bitte überweisen Sie uns den Gesamtbetrag binnen 14 Tagen auf<br /><br />
-                Kontoname<br />
-                IBAN<br />
+                Engelstein UG<br />
+                IBAN: DE77 8604 0000 0371 1454 00<br />
+                BIC: COBADEFF 860
                 Nochmal Wert<br />
                 Betreff: Auftrags-/Rechnungsnummer<br /><br />
             </p>

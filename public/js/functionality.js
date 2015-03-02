@@ -12,20 +12,38 @@ var _STYLE = '';
 var _COUNT = '2';
 var _CUSTOM;
 
+Number.prototype.formatMoney = function(c, d, t){
+    var n = this,
+        c = isNaN(c = Math.abs(c)) ? 2 : c,
+        d = d == undefined ? "." : d,
+        t = t == undefined ? "," : t,
+        s = n < 0 ? "-" : "",
+        i = parseInt(n = Math.abs(+n || 0).toFixed(c)) + "",
+        j = (j = i.length) > 3 ? j % 3 : 0;
+    return s + (j ? i.substr(0, j) + t : "") + i.substr(j).replace(/(\d{3})(?=\d)/g, "$1" + t) + (c ? d + Math.abs(n - i).toFixed(c).slice(2) : "");
+};
+
 function calculatePrice(style){
     var price;
     switch(style){
         case 'matt':
-            price = '3.500,00';
+            price = 2941.18;
+            price = price + (price * 0.19);
+            price = Math.round(price);
             break;
         case 'hochglanz':
-            price = '4.000,00';
+            price = 3361.34;
+            price = price + (price * 0.19);
+            price = Math.round(price);
             break;
     }
+
+
+
     return price;
 }
 
-// select Variation of AWEvo
+// select Variation of AWKlassic
 $('.choose_color').click(function(){
         $('.color img').removeClass('active');
         $(this).addClass('active');

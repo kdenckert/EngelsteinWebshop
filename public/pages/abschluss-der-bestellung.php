@@ -23,17 +23,18 @@
             <thead>
                 <tr>
                     <th>Artikel</th>
-                    <th>Anzahl</th>
+                    <th>Stückzahl</th>
                     <th>Preis</th>
                 </tr>
             </thead>
             <tbody>
             <?php foreach($_SESSION['items'] as $v) : ?>
+                <?php $_POST['order']['mwst'] += ($v['price'] * 0.19) * $v['count'] / 2 ?>
                 <?php @$_POST['order']['total'] += $v['price'] * $v['count'] / 2 ?>
                 <tr>
                     <td><?php echo $v['item']?>, <?php echo $v['style']?>, <?php echo $v['color']?></td>
                     <td><?php echo $v['count']?></td>
-                    <td><?php echo number_format($v['price'] * $v['count'] / 2, 2); ?> &euro;</td>
+                    <td><?php echo number_format((($v['price'] * 0.19) + $v['price']) * $v['count'] / 2, 2); ?> &euro;</td>
                 </tr>
             <?php endforeach; ?>
             <tr class="delivery">
@@ -44,12 +45,12 @@
             <tr class="taxes">
                 <td></td>
                 <td>Mwst 19%</td>
-                <td><?php echo number_format($_POST['order']['total'] * 0.19, 2); ?>&euro;</td>
+                <td><?php echo number_format($_POST['order']['mwst'], 2); ?>&euro;</td>
             </tr>
             <tr class="total">
                 <td></td>
                 <td width="170">Gesamt</td>
-                <td width="170"><?php echo number_format($_POST['order']['total'], 2);?> &euro;</td>
+                <td width="170"><?php echo number_format($_POST['order']['total'] + $_POST['order']['mwst'], 2);?> &euro;</td>
             </tr>
             </tbody>
         </table>
@@ -58,7 +59,7 @@
             Bitte beachten Sie: <br/>
             Ihre Bestellung wird für Sie gefertigt und hat eine Lieferzeit von 20 Tagen.
             Die Lieferzeit beginnt NACH dem Eingang des vollständigen Zahlungsbetrag auf unser Konto
-            Die Variante Klassik ist eine Speizialanfertigung für Sie, daher gilt ein eingeschränktes Widerrufsrecht.
+            Die Variante Klassik ist eine Spezialanfertigung für Sie, daher gilt ein eingeschränktes Widerrufsrecht.
         </p>
     </section>
 
@@ -86,6 +87,6 @@
 
 <nav class="clearfix buttonbar">
     <a href="versand-und-bezahlung" class="left">Daten ändern</a>
-    <input type="submit" name="submit_order" form="checkoutform" value="kostenpflichtig Bestellen" class="right" />
+    <input type="submit" name="submit_order" form="checkoutform" value="kostenpflichtig bestellen" class="right" />
 </nav>
 <?php endif; ?>

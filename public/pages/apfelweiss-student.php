@@ -1,6 +1,6 @@
 <section class="aw-praesi">
     <figure class="speaker">
-        <img src="public/img/apfelweis-student.png" width="879" alt="Apfelweiß Evo"/>
+        <img src="public/img/apfelweiss-student-detailed.png" width="879" alt="Apfelweiß Evo"/>
     </figure>
     <section class="intro">
         <p>
@@ -10,7 +10,7 @@
             verleihen ihm etwaige Gebrauchsspuren eher den Glanz der Erfahrung als ein abgenutztes Aussehen. </p>
     </section>
     <section class="intrest">
-        <h2>Welcher Aspekt interessiert dich?</h2>
+        <h2>Welcher Aspekt interessiert Sie?</h2>
         <nav id="order">
             <a href="#philosophy" class="philosophie_link praesi-link"><img src="public/img/philosophy_icon.png"
                                                                             width="130" alt=""/><br/>Philosophie</a>
@@ -33,7 +33,7 @@
     <section class="result">
         <h2 class="light">Gewähltes Produkt</h2>
         <ul>
-            <li><span>Menge:</span> Stereo</li>
+            <li><span>Menge:</span> Paar</li>
             <li class="final_style"><span>Stil:</span> <strong>Student</strong></li>
             <li class="final_price"><span>Preis:</span> <strong>3.000,00 €</strong></li>
         </ul>

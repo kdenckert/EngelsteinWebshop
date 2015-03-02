@@ -15,11 +15,11 @@ $centerwidth: 900px;
 
 .nivo-caption{
   line-height: 22px;
-  font-family: Roboto-Light, sans-serif;
+  font-family: Roboto-Regular, sans-serif;
   p{
-    color: white !important;
+    text-align: right;
+    color: #333 !important;
   }
-
 }
 .clearfix:after {
   content: ".";
@@ -750,7 +750,7 @@ header{
     }
     div{
       figure{
-        width: 49% !important;
+        width: 50% !important;
       }
     }
   }
@@ -839,8 +839,9 @@ header{
             margin-top: 10px;
             p{
               height: 50px;
-              text-align: center;
-              color: $keycolor;
+              text-align: center !important;
+              color: $keycolor !important;
+              font-family: Roboto-Regular !important;
             }
           }
         }
@@ -1071,3 +1072,22 @@ footer{
   }
 }
 
+.hgswitcher{
+  figure{
+    margin-right: 0 !important;
+    img:hover{
+      border: none;
+      -webkit-box-shadow: none !important;
+      -moz-box-shadow: none !important;
+      box-shadow: none !important;
+      opacity: 1;
+      transition: opacity 1s;
+    }
+    img{
+      opacity: 0.9;
+    }
+    figcaption{
+      display: none;
+    }
+  }
+}

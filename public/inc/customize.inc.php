@@ -1,4 +1,4 @@
-<a href="#apfelweiss-cust" class="aw-cust">Hier Individualisieren</a>
+<a href="#apfelweiss-cust" class="aw-cust">Bestellung individualisieren</a>
 <div class="aw-cust" id="aw-cust">
     <section class="color customize clearfix">
         <div class="clearfix">
@@ -103,21 +103,21 @@
         </div>
     </section>
     <section class="style customize clearfix">
-        <div>
+        <div class="hgswitcher">
             <h2>Stil wählen</h2>
             <figure class="left">
-                <img src="" width="100%" height="120" alt="" class="choose_style"/>
+                <img src="public/img/hochglanz-detailed.png" width="450" alt="" class="choose_style"/>
                 <figcaption>
                     <nav>
-                        <p class="matt">Matt</p>
+                        <p class="hochglanz">Hochglanz</p>
                     </nav>
                 </figcaption>
             </figure>
             <figure class="left">
-                <img src="" width="100%" height="120" alt="" class="choose_style"/>
+                <img src="public/img/matt-detailed.png" width="450" alt="" class="choose_style"/>
                 <figcaption>
                     <nav>
-                        <p class="hochglanz">Hochglanz</p>
+                        <p class="matt">Matt</p>
                     </nav>
                 </figcaption>
             </figure>

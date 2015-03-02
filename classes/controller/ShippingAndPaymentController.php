@@ -14,6 +14,7 @@ class ShippingAndPaymentController extends System{
     }
 
     public function validateForm($data){
+        $this->SAM->addToSession($data);
         if($data['gender'] == 'default'){
             $array[] = 'Bitte wählen Sie eine Anrede';
         }
@@ -74,7 +75,6 @@ class ShippingAndPaymentController extends System{
             }
         }
         if(empty($array)){
-            $this->SAM->addToSession($data);
             return 'true';
         }else{
             return $array;

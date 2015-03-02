@@ -21,8 +21,7 @@ Emailadresse für eigene Werbezwecke, bis Sie sich vom newsletter-Bezug abmelden
 <br />
 <br /></p>
 <h2>Datensicherheit</h2><p><br />
-Ihre personenbezogenen Daten sind bei uns sicher! Sie werden durch [...
-Übertragungsstandart ... ] verschlüsselt und an uns übertragen. Unsere Webseiten
+Ihre personenbezogenen Daten sind bei uns sicher! Sie werden durch Sicherheitsalgorithmen verschlüsselt und an uns übertragen. Unsere Webseiten
 sind durch technische Maßnahmen gegen Beschädigung, Zerstörung, unberechtigten
 Zugriff geschützt.<br />
 <br /></p>
@@ -31,7 +30,7 @@ Sie erhalten jederzeit ohne Angaben von Gründen kostenfrei Auskunft über Ihre
 bei uns gespeicherten Daten. Sie können jederzeit Ihre bei uns erhobenen Daten
 sperren, berichtigen oder löschen lassen. Sie können jederzeit die uns erteilten
 Einwilligung zur Datenerhebung und Verwendung ohne Angaben von Gründen
-widerrufen. Wenden Sie dazu an <a href="mailto:info@engelstein.de">info@engelstein.de</a>.</p>
+widerrufen. Wenden Sie sich dazu an <a href="mailto:info@engelstein.de">info@engelstein.de</a>.</p>
 
 <p>(1) Zur Durchführung von Kaufverträgen (Anbahnung, Abschluss, Abwicklung, Gewährleistungen und Rückabwicklung), für unsere Servicedienste, die technische Administration, eigene Marketingzwecke und der Sicherstellung der zwischen Ihnen und uns bestehenden Korrespondenz erheben wir für den Bestellvorgang wie auch zur Eröffnung eines Kundenkontos personenbezogene Daten, die im Einzelnen umfassen: Name, Kontaktdaten, Zahlungsdaten, eMail, Telefonnummer. Eine Weitergabe ihrer Daten kann grundsätzlich an mehrere Unternehmen erfolgen, soweit dies zur Abwicklung unserer Vertragsbeziehung erforderlich ist, insbesondere in folgenden Fällen:<br />
     a) Eine Weitergabe erfolgt stets zum Zwecke der Lieferung an das von uns hierfür beauftragte Versandunternehmen. Die Weitergabe umfasst nur solche Daten, die für eine Zusendung der Ware erforderlich sind.<br />

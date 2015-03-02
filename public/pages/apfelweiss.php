@@ -1,16 +1,16 @@
 <section class="aw-praesi">
     <figure class="speaker">
-        <img src="public/img/apfelweis-klassik.png" width="879" alt="Apfelweiß Evo"/>
+        <img src="public/img/apfelweiss-klassik-detailed.png" width="879" alt="Apfelweiß Evo"/>
     </figure>
     <section class="intro">
         <p>
             Der Apfelweiß ist ein passiver Nah- und Mittenfeldmonitor, entwickelt für die speziellen Hörbedürfnisse von Tontechnikern im Bereich der Studioproduktion.
-            Er zeichnet sich besonders durch einen lineraen Frequenzverlauf, die präzise Wiedergabe von Räumlichkeit und minimierten harmonischen Obertönen aus.
+            Er zeichnet sich besonders durch einen lineraen Frequenzverlauf, die präzise Wiedergabe von Räumlichkeit und minimierten harmonischen Verzerrungen aus.
             Der Apfelweiß Klassik ist in den Varianten Matt und Hochglanz erhältlich.
         </p>
     </section>
     <section class="intrest">
-        <h2>Welcher Aspekt interessiert dich?</h2>
+        <h2>Welcher Aspekt interessiert Sie?</h2>
         <nav id="order">
             <a href="#philosophy" class="philosophie_link praesi-link"><img src="public/img/philosophy_icon.png" width="130" alt=""/><br />Philosophie</a>
             <a href="#optics" class="optics_link praesi-link"><img src="public/img/optic_icon.png" width="130" alt=""/><br />Optik</a>
@@ -33,12 +33,12 @@
     <section class="result">
         <h2 class="light">Gewähltes Produkt</h2>
         <ul>
-            <li><span>Menge:</span> Stereo</li>
+            <li><span>Menge:</span> Paar</li>
             <li class="final_color"><span>Logo:</span> <strong><strong></li>
             <li class="final_style"><span>Stil:</span> <strong></strong></li>
             <li class="final_price"><span>Preis:</span> <strong></strong></li>
         </ul>
-        <h2><a href="warenkorb&amp;item=AWEvo" class="addtocart">In den Warenkorb</a></h2>
+        <h2><a href="warenkorb&amp;item=AWKlassik" class="addtocart">In den Warenkorb</a></h2>
     </section>
 
     <!-- div starts in Customize -->

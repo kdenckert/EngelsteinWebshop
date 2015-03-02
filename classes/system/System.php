@@ -9,7 +9,7 @@ require_once 'Session.php';
 
 class System {
 
-    public $price = array('student' => 3000, 'matt' => 3500, 'hochglanz' => 4000);
+    public $price = array('student' => 2521.01, 'matt' => 2941.18, 'hochglanz' => 3361.34);
     public $stereo = 2;
     public $PIM;
     public $POM;
@@ -48,9 +48,9 @@ class System {
            'apfelweiss', 'impressum', 'abschluss-der-bestellung',
            'apfelweiss-student', 'versand-und-bezahlung',
            'order', 'order-history', 'apfelweiss',
-           'team', 'warenkorb', 'tracking', 'produkte',
+           'unternehmen', 'warenkorb', 'tracking', 'produkte',
            'agb', 'widerruf', 'vielen-dank', 'generateOrderConfirmation', 'datenschutz',
-            'ausblick', 'news'
+            'ausblick', 'news', 'feedback'
         );
 
         if(isset($this->request['p'])){

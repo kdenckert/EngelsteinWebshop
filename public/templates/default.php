@@ -37,7 +37,7 @@
     </div>
     <header>
         <figure>
-            <a href="<?= $_SERVER['PHP_SELF'] ?>"><img src="public/img/logo.png" height="130" alt=""/></a>
+            <a href="<?= $_SERVER['PHP_SELF'] ?>"><img src="public/img/logo.png" height="180" alt="Logo Engelstein UG"/></a>
         </figure>
         <nav class="navi">
             <ul class="level_1">
@@ -53,14 +53,15 @@
                         <li><a href="apfelweiss-student">Apfelweiß Student</a></li>
                     </ul>
 
-                <li><a href="team" class="circle"><i class="fa fa-users"></i></a>
-                    <div class="label">Team</div>
+                <li><a href="unternehmen" class="circle"><i class="fa fa-users"></i></a>
+                    <div class="label">Unternehmen</div>
 
                 <li><a href="warenkorb" class="circle"> <i class="fa fa-shopping-cart"></i></a>
                     <div class="label">Warenkorb</div>
                 <li><a href="" class="circle submenu"><i class="fa fa-info"></i></a>
                     <div class="label">Infos</div>
                     <ul class="level_2">
+                        <li><a href="feedback">Feedback</a></li>
                         <li><a href="impressum">Impressum</a></li>
                         <li><a href="datenschutz">Datenschutz</a></li>
                         <li><a href="agb">AGBs</a></li>
@@ -74,18 +75,18 @@
                 <div class="slider-wrapper theme-default">
                     <div class="ribbon"></div>
                     <div class="imageSlider nivoSlider">
-                        <a href="produkte">
-                            <img src="public/img/apfelweis-teaser.png" width="100%" title="#feature-text-01" alt="" />
-
-                            <a href="produkte">
-                                <img src="public/img/studio.png" width="100%" title="#feature-text-02" alt="" />
+                            <a href="apfelweiss">
+                                <img src="public/img/apfelweiss-klassik.png" width="900px" title="#feature-text-01" alt="" />
+                            </a>
+                            <a href="apfelweiss-student">
+                                <img src="public/img/apfelweiss-student.png" width="900px" title="#feature-text-02" alt="" />
                             </a>
                     </div>
                     <div id="feature-text-01" class="nivo-html-caption">
-                        <p>Mein Text....</p>
+                        <p>Direkt zur Produktübersicht</p>
                     </div>
                     <div id="feature-text-02" class="nivo-html-caption">
-                        <p>...zweites Bild</p>
+                        <p>Direkt zur Produktübersicht</p>
                     </div>
 
                 </div>

@@ -12,12 +12,12 @@
             <li>0,75" Keramikhochtöner</li>
             <li>5" Aluminium Tief-, Mitteltöner</li>
             <li>linerarer Frequenzverlauf +/- 2,5 dB</li>
-            <li>reduzierte Obetöne 0,1 % THD L 1 Khz</li>
+            <li>sehr geringer Klirrfaktor: 0,1 % @ 1 kHz</li>
         </ul>
         <ul class="left">
             <li>Eingänge: 2 Vollisolierte Kombibuchse Bananenstecker/Schraubklemme</li>
             <li>90 W Musikleistung/Nennleistung 60 W</li>
-            <li>Schalldruck: 81 dB(SPL) Watt pro Meter</li>
+            <li>Schalldruck: 81 dB(SPL) (1 W/1 m)</li>
             <li>Widerstand 4 Ohm</li>
             <li>Frequenzgang: 65 Hz - 24000 Hz</li>
             <li>Maße: 25x20x31,8 cm</li>
@@ -40,7 +40,6 @@
         <ul class="left">
             <li>passiver Nahfeldmonitor</li>
             <li>linerarer Frequenzverlauf +/- 2,5 dB</li>
-            <li>reduzierte Obertöne 0,1 % THD L 1 Khz</li>
             <li>sehr robuste Optik für Proberäume und Projektstudios</li>
             <li>0,75" Keramikhochtöner</li>
             <li>unbehandeltes MDF-Gehäuse</li>
@@ -50,9 +49,9 @@
         </ul>
         <ul class="left">
             <li>linerarer Frequenzverlauf +/- 2,5 dB</li>
-            <li>reduzierte Obetöne 0,1 % THD L 1 Khz</li>
+            <li>sehr geringer Klirrfaktor: 0,1 % @ 1 kHz</li>
             <li>Eingänge: 2 vollisolierte Kombibuchsen Bananenstecker / Schraubklemmen</li>
-            <li>Schalldruck: 81 dB(SPL) Watt pro Meter</li>
+            <li>Schalldruck: 81 dB(SPL) (1 W/1 m)</li>
             <li>Widerstand 4 Ohm</li>
             <li>Frequenzgang: 65 Hz - 24000 Hz</li>
             <li>Maße: 25x20x31,8 cm</li>

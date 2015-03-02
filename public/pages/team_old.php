@@ -1,4 +1,4 @@
-<section class="teamboxen clearfix">
+<!--<section class="teamboxen clearfix">
     <figure class="left">
         <img src="public/img/ronny.png" width="100%" alt=""/>
         <figcaption>
@@ -42,4 +42,4 @@
             Stephanie
         </figcaption>
     </figure>
-</section>
+</section>-->

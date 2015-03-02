@@ -4,9 +4,10 @@
 */
 .nivo-caption {
   line-height: 22px;
-  font-family: Roboto-Light, sans-serif; }
+  font-family: Roboto-Regular, sans-serif; }
   .nivo-caption p {
-    color: white !important; }
+    text-align: right;
+    color: #333 !important; }
 
 .clearfix:after {
   content: ".";
@@ -568,7 +569,7 @@ header {
   #wrapper section.style h2 {
     text-align: center; }
   #wrapper section.style div figure {
-    width: 49% !important; }
+    width: 50% !important; }
   #wrapper section.result {
     text-align: left;
     padding-top: 20px;
@@ -636,8 +637,9 @@ header {
         margin-top: 10px; }
         #wrapper section.customize div figure figcaption nav p {
           height: 50px;
-          text-align: center;
-          color: #CC463A; }
+          text-align: center !important;
+          color: #CC463A !important;
+          font-family: Roboto-Regular !important; }
   #wrapper section.teamboxen figure {
     width: 900px;
     margin: 30px 0px;
@@ -795,5 +797,19 @@ footer {
         color: #CC463A; }
       footer section div p {
         margin: 0; }
+
+.hgswitcher figure {
+  margin-right: 0 !important; }
+  .hgswitcher figure img:hover {
+    border: none;
+    -webkit-box-shadow: none !important;
+    -moz-box-shadow: none !important;
+    box-shadow: none !important;
+    opacity: 1;
+    transition: opacity 1s; }
+  .hgswitcher figure img {
+    opacity: 0.9; }
+  .hgswitcher figure figcaption {
+    display: none; }
 
 /*# sourceMappingURL=screen.css.map */

@@ -2,17 +2,25 @@
     display: none;
 }
 textarea{
-    background: #DDDDDD;
-	border: thin solid #54535D;
-	border-radius: 10px;
+    background: #fff;
+	border: 5px solid #CC463A;
 	resize: none;
+    line-height: 22px;
+    padding: 10px;
 }
-input[type="submit"]:hover{
+#sms_form input[type="submit"]:hover{
     cursor: pointer;
 }
-input[type="submit"]{
+#sms_form input[type="submit"]{
 	width: 100px;
 	margin-left: 49px;
+    border: none;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+    background: #cc463a;
+    color: white;
+    margin-top: -3px;
 }
 #sms_field{
     position: fixed;
@@ -21,4 +29,8 @@ input[type="submit"]{
 }
 #sms_button{
 	margin-left: -2px;
+}
+#sms_button{
+    background: #CC463A;
+    padding: 10px;
 }

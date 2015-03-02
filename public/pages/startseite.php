@@ -35,31 +35,7 @@
     <ul class="bxslider">
         <li>
             <p class="message">"Diese Boxen sind alles was ich mehr je gewünscht habe und mehr, es ist ein fantastisches Hörerlebnis"</p>
-            <p class="quote">Mike Berus Headinstructer Audio Engineering @ SAE Institute Leipzig</p>
-        </li>
-        <li>
-            <p class="message">"Krasse Scheiße!"</p>
-            <p class="quote">Marten Stockenberg @ SAE Institute Leipzig</p>
-        </li>
-        <li>
-            <p class="message">"Diese Boxen sind alles was ich mehr je gewünscht habe und mehr, es ist ein fantastisches Hörerlebnis"</p>
-            <p class="quote">Mike Berus @ SAE Institute Leipzig</p>
-        </li>
-        <li>
-            <p class="message">"Diese Boxen sind alles was ich mehr je gewünscht habe und mehr, es ist ein fantastisches Hörerlebnis"</p>
-            <p class="quote">Mike Berus @ SAE Institute Leipzig</p>
-        </li>
-        <li>
-            <p class="message">"Diese Boxen sind alles was ich mehr je gewünscht habe und mehr, es ist ein fantastisches Hörerlebnis"</p>
-            <p class="quote">Mike Berus @ SAE Institute Leipzig</p>
-        </li>
-        <li>
-            <p class="message">"Diese Boxen sind alles was ich mehr je gewünscht habe und mehr, es ist ein fantastisches Hörerlebnis"</p>
-            <p class="quote">Mike Berus @ SAE Institute Leipzig</p>
-        </li>
-        <li>
-            <p class="message">"Diese Boxen sind alles was ich mehr je gewünscht habe und mehr, es ist ein fantastisches Hörerlebnis"</p>
-            <p class="quote">Mike Berus @ SAE Institute Leipzig</p>
+            <p class="quote">Ola Ersfjord - </p>
         </li>
     </ul>
 

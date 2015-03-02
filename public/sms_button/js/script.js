@@ -2,7 +2,9 @@ $(document).ready(function(){
 
     $('#sms_button').click(function(e){
         e.preventDefault();
-        $('#sms_form').fadeToggle(500);
+       // $(this).css('padding-left', '128px');
+        $('#sms_form').fadeToggle(500, function(){});
+
     });
 
 	

@@ -29,14 +29,14 @@ if(isset($_POST['sms_submit'])){
     <link rel="stylesheet" type="text/css" href="public/sms_button/css/style.css">
     <script src="public/sms_button/js/script.js"></script>
 
-    <a id="sms_button" href=""><img src="public/sms_button/img/smsicon.png"></a>
+    <a id="sms_button" href=""><img width="70" src="public/sms_button/img/feedback.png"></a>
     <?php if(@$sendMail) : ?>
          <p id="sms_success">SMS versandt</p>
 	<?php elseif(@$sendMail === false) : ?>
 		<p id="sms_fail">Es gibt nichts zu versenden...</p>
     <?php endif; ?>
     <form id="sms_form" action="<?=$sms_uri ?>" method="post">
-        <textarea maxlength="160" name="sms_text" id="sms_text" rows="9" cols="25" placeholder="Hier können Sie uns Feedback schicken..."></textarea><br/>
+        <textarea maxlength="160" name="sms_text" id="sms_text" rows="9" cols="25" placeholder="Das hier abgegebene Feedback erreicht uns Direkt. Die Reaktion unsererseits könnt ihr unter Infos auf der Feedback-Seite finden."></textarea><br/>
         <input type="submit" value="Abschicken!" name="sms_submit">
     </form>
 </div>

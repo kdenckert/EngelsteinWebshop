@@ -20,7 +20,7 @@
             nicht gerecht. Er ist viel mehr ein modernenes Mischwerkzeug ausgelegt auf die Notwendigkeiten der
             tontechnischen Arbeit. Dieser Ansatz bestätigt sich vor allem in der klanglichen Ausrichtung dieses
             Monitors. Darüber hinaus vereint er höchte Ansprüche an die optische Verarbeitung und an die Langlebigkeit.
-            Er ist unser Angebot für die moderne audiophile Welt.
+            Er ist unser Beitrag für die moderne audiophile Welt.
         </p>
     </div>
     <div class="first clearfix imgtext">
