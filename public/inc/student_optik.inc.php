@@ -4,8 +4,14 @@
         <figure class="left imgleftalign">
             <section class="theme-default nomargin">
                 <div class="imageSlider nivoSlider nomargin">
-                    <a class="lightbox" href="public/img/farblogo.png" title="Das ist eine Unterschrift">
-                        <img src="public/img/farblogo.png" width="100%" alt="Apfelweiß Evo"/>
+                    <a class="lightbox" href="public/img/mdf.png" title="Apfelweiß Student im robustem MDF Gehäuse">
+                        <img src="public/img/mdf.png" width="100%" alt="Apfelweiß Student im robustem MDF Gehäuse"/>
+                    </a>
+                    <a class="lightbox" href="public/img/mdf_zwei.png" title="Apfelweiß Student im robustem MDF Gehäuse">
+                        <img src="public/img/mdf_zwei.png" width="100%" alt="Apfelweiß Student im robustem MDF Gehäuse"/>
+                    </a>
+                    <a class="lightbox" href="public/img/mdf_drei.png" title="Apfelweiß Student im robustem MDF Gehäuse">
+                        <img src="public/img/mdf_drei.png" width="100%" alt="Apfelweiß Student im robustem MDF Gehäuse"/>
                     </a>
                 </div>
             </section>

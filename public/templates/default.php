@@ -83,10 +83,10 @@
                             </a>
                     </div>
                     <div id="feature-text-01" class="nivo-html-caption">
-                        <p>Direkt zur Produktübersicht</p>
+                        <p><a href="apfelweiss">zum Produkt</a></p>
                     </div>
                     <div id="feature-text-02" class="nivo-html-caption">
-                        <p>Direkt zur Produktübersicht</p>
+                        <p><a href="apfelweiss-student">zum Produkt</a></p>
                     </div>
 
                 </div>
@@ -98,7 +98,7 @@
                     <ul>
                         <li><img src="public/img/<?php echo $_GET['p']; ?>_icon_dark.png" height="200" alt=""/></li>
                     </ul>
-                    <h1><?= @ucwords(str_replace('apfelweiss', '', $headline[0])) ?> <?= @ucwords(str_replace('student', '', $headline[1])) ?> <?= @ucwords(str_replace('Apfelweiss', 'Apfelweiß', $headline[2])) ?></h1>
+                    <h1><?= @ucwords(str_replace('apfelweiss', '', htmlspecialchars(strip_tags($headline[0])))) ?> <?= @ucwords(str_replace('student', '', htmlspecialchars(strip_tags($headline[1])))) ?> <?= @ucwords(str_replace('Apfelweiss', 'Apfelweiß', htmlspecialchars(strip_tags($headline[2])))) ?></h1>
             <?php endif;?>
         </section>
     </header>
@@ -115,10 +115,11 @@
                 <h3>Sitemap</h3>
                 <ul>
                     <li><a href="produkte">Produkte</a></li>
-                    <li><a href="team">Team</a></li>
+                    <li><a href="unternehmen">Unternehmen</a></li>
                     <li><a href="apfelweiss">Apfelweiß</a></li>
                     <li><a href="impressum">Impressum</a></li>
                     <li><a href="datenschutz">Datenschutz</a></li>
+                    <li><a href="widerruf">Widerrufsrecht</a></li>
                     <li><a href="agb">AGB</a></li>
                 </ul>
             </div>

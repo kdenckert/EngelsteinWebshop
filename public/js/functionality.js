@@ -119,7 +119,7 @@ $('.clearcart').click(function(e){
         success: function (e) {
         }
     });
-    window.href('http://badass.engelstein.de/warenkorb');
+    window.href('http://engelstein.de/warenkorb');
 
     return false;
 })

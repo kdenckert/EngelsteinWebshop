@@ -24,13 +24,14 @@ textarea{
 }
 #sms_field{
     position: fixed;
-    top: 45%;
+    top: 0;
 	width: 200px;
+    z-index: 500;
 }
 #sms_button{
 	margin-left: -2px;
 }
 #sms_button{
     background: #CC463A;
-    padding: 10px;
+    padding: 13px;
 }

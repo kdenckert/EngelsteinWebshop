@@ -15,7 +15,7 @@
             <li>sehr geringer Klirrfaktor: 0,1 % @ 1 kHz</li>
         </ul>
         <ul class="left">
-            <li>Eingänge: 2 Vollisolierte Kombibuchse Bananenstecker/Schraubklemme</li>
+            <li>Eingänge: 2 Vollisolierte Kombibuchsen für Bananenstecker/Schraubklemme</li>
             <li>90 W Musikleistung/Nennleistung 60 W</li>
             <li>Schalldruck: 81 dB(SPL) (1 W/1 m)</li>
             <li>Widerstand 4 Ohm</li>
@@ -50,7 +50,7 @@
         <ul class="left">
             <li>linerarer Frequenzverlauf +/- 2,5 dB</li>
             <li>sehr geringer Klirrfaktor: 0,1 % @ 1 kHz</li>
-            <li>Eingänge: 2 vollisolierte Kombibuchsen Bananenstecker / Schraubklemmen</li>
+            <li>Eingänge: 2 vollisolierte Kombibuchsen für Bananenstecker / Schraubklemmen</li>
             <li>Schalldruck: 81 dB(SPL) (1 W/1 m)</li>
             <li>Widerstand 4 Ohm</li>
             <li>Frequenzgang: 65 Hz - 24000 Hz</li>

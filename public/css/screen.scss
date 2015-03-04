@@ -431,9 +431,9 @@ header{
       }
       p{
         line-height: 24px;
-        font-family: Roboto-Light;
+        font-family: Roboto-Regular;
         font-size: 16px;
-        color: #000;
+        color: #333;
         text-align: justify;
       }
       figure.speaker{
@@ -1084,7 +1084,7 @@ footer{
       transition: opacity 1s;
     }
     img{
-      opacity: 0.9;
+      opacity: 0.8;
     }
     figcaption{
       display: none;

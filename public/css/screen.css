@@ -367,9 +367,9 @@ header {
         width: 100%; }
       #wrapper .innerWrapper section.aw-praesi p {
         line-height: 24px;
-        font-family: Roboto-Light;
+        font-family: Roboto-Regular;
         font-size: 16px;
-        color: #000;
+        color: #333;
         text-align: justify; }
       #wrapper .innerWrapper section.aw-praesi figure.speaker {
         margin: 20px 0; }
@@ -808,7 +808,7 @@ footer {
     opacity: 1;
     transition: opacity 1s; }
   .hgswitcher figure img {
-    opacity: 0.9; }
+    opacity: 0.8; }
   .hgswitcher figure figcaption {
     display: none; }
 

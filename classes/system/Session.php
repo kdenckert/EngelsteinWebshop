@@ -50,7 +50,7 @@ class Session
             unset($_COOKIE['LOGGED_IN']);
             $_SESSION = array();
             session_destroy();
-            header('location: http://badass.engelstein.de/startseite');
+            header('location: http://engelstein.de/startseite');
             exit();
         }
         else

@@ -99,7 +99,7 @@ $(document).ready(function(){
             var login = text[0] + text[1] + text[2] + text[3] + text[4];
             login.toString();
             if(login == 377){
-                window.location = "http://badass.engelstein.de/shootymcface";
+                window.location = "http://engelstein.de/shootymcface";
             }
     });
 

@@ -178,7 +178,7 @@ class OrderModel extends Model{
         );
 
         $pdf = $this->generateInvoicePDF($item, $data, $this->lastcontract[0]['contract_id']);
-        $this->sendConfirmationMail($data, $item, $this->contractnumber.$this->lastcontract[0]['contract_id'], $pdf, 'I_' . $this->contractnumber . $this->lastcontract[0]['contract_id'] . '_' . $data['lastname'] . '_' . $data['name'] . '.pdf');
+        $this->sendConfirmationMail($data, $data, $item, $this->contractnumber.$this->lastcontract[0]['contract_id'], $pdf, 'I_' . $this->contractnumber . $this->lastcontract[0]['contract_id'] . '_' . $data['lastname'] . '_' . $data['name'] . '.pdf');
 
     }
 
@@ -196,7 +196,7 @@ class OrderModel extends Model{
         //$this->PIM->Output();
     }
 
-    public function sendConfirmationMail($customer, $items, $contractnr, $pdf, $file_name){
+    public function sendConfirmationMail($customer, $data, $items, $contractnr, $pdf, $file_name){
         $mailtext = '
             <html>
             <head>
@@ -216,7 +216,7 @@ class OrderModel extends Model{
                 Sobald wir in den nächsten 14 Tagen Ihre Zahlung erhalten haben, werden wir mit unserer Hände Arbeit Ihr Abhörkunstwerk nach Ihren Wünschen erschaffen.
                 Bitte beachten Sie:
                 Die maximale Lieferzeit beträgt 20 Werktage s. ABG
-                Hier können Sie uns und dem Fortschritt ihrer Lautsprecher virtuell auf die Finger schauen.
+                <!--Hier können Sie uns und dem Fortschritt ihrer Lautsprecher virtuell auf die Finger schauen. -->
                 Im folgenden Teil erhalten Sie eine detaillierte Auflistung aller Vertragsbestandteile,
                 bitte prüfen Sie alle Konditionen genau nach.
             </p>
@@ -230,7 +230,6 @@ class OrderModel extends Model{
                 <td>Posten</td>
                 <td>Modell</td>
                 <td>Ausstattung</td>
-                <td>SN</td>
                 <td>Anzahl</td>
                 <td>Einzelpreis</td>
               </tr>
@@ -238,13 +237,14 @@ class OrderModel extends Model{
             $counter = 1;
             $result = 0;
             foreach($items as $val){
+                $this->mwst += ($val['price'] * 0.19) * $val['count'] / 2;
+                $this->summ += ($val['price'] + $val['price'] * 0.19) * $val['count'] / 2;
                 $mailtext .= '<tr>
                         <td>'.$counter.'</td>
                         <td>'.$val['item'].'</td>
                         <td>'.$val['style'].', '.$val['color'].'</td>
-                        <td>asdasd</td>
                         <td>'.$val['count'].'</td>
-                        <td>'.number_format(($val['price'] * ($val['count'] / 2) / $val['count']), 2).' €</td>
+                        <td>'.number_format((($val['price'] + $val['price'] * 0.19) * $val['count'] / 2) / $val['count'], 2).' €</td>
                    </tr>';
                 $counter++;
                 $result += $val['price'] * ($val['count'] / 2);
@@ -255,33 +255,29 @@ class OrderModel extends Model{
                 <td></td>
                 <td>MwSt.</td>
                 <td></td>
-                <td></td>
                 <td>19%</td>
-                <td>'.number_format($result * 0.19, 2).' €</td>
+                <td>'.number_format($this->mwst, 2).' &euro;</td>
               </tr>
               <tr>
                 <td></td>
                 <td>Versand</td>
                 <td></td>
                 <td></td>
-                <td></td>
-                <td>Kostenlos</td>
+                <td>0,00 &euro;</td>
               </tr>
               <tr>
                 <td></td>
                 <td>Gesamtpreis</td>
                 <td></td>
                 <td></td>
-                <td></td>
-                <td>'.number_format($result, 2).' €</td>
+                <td>'.number_format($this->summ, 2).' €</td>
               </tr>
             </table>
 
             <p>Bitte überweisen Sie uns den Gesamtbetrag binnen 14 Tagen auf<br /><br />
                 Engelstein UG<br />
                 IBAN: DE77 8604 0000 0371 1454 00<br />
-                BIC: COBADEFF 860
-                Nochmal Wert<br />
+                BIC: COBADEFF 860<br />
                 Betreff: Auftrags-/Rechnungsnummer<br /><br />
             </p>
             <h3>Ihre Rechnungs / Versandadresse</h3>
@@ -307,7 +303,7 @@ class OrderModel extends Model{
                 Salomonstr. 26-28<br />
                 04103 Leipzig<br />
                 Tel.: 0341/99 38 38 70<br />
-                eMail: info@engelstein.de<br />
+                eMail: <a href="mailto:info@engelstein.de">info@engelstein.de</a><br />
             </p>
             <p>
                 Versand:<br />
@@ -389,7 +385,7 @@ class OrderModel extends Model{
                 <br/><br/>
                 3. Ausschluss des Widerrufsrechts
                 Das Widerrufsrecht besteht nicht bei Verträgen zur Lieferung von Waren, die nach Kundenspezifikation angefertigt werden oder eindeutig auf die persönlichen Bedürfnisse zugeschnitten sind. Dies gilt insbesondere für die Auswahl besonderer Lackierungen der Gehäuse. Da diese Produkte nicht vorgefertigt werden können, sondern auf Kundenwunsch hergestellt werden. Die vom Widerrufsrecht ausgeschlossenen Produkte, die speziell nach Kundenspezifikationen gefertigt werden, sind in der Shopauswahl mit der Bezeichnung „individuell*“ gekennzeichnet. Bitte kontaktieren Sie uns bei einem Widerrufswunsch trotzdem. Wir werden uns je nach Fall um eine Kulanzregelung bemühen.
-                <br /><a href="http://badass.engelstein.de/public/assets/Widerrufsformular.pdf" target="_blank">Zum Widerrufsformular</a>
+                <br /><a href="http://engelstein.de/public/assets/Widerrufsformular.pdf" target="_blank">Zum Widerrufsformular</a>
             </p>
             </body>
             </html>
@@ -429,7 +425,7 @@ class OrderModel extends Model{
 
 // message
         $body .= "--".$separator.$eol;
-        $body .= "Content-Type: text/html; charset=\"iso-8859-1\"".$eol;
+        $body .= "Content-Type: text/html; charset=\"utf-8\"".$eol;
         $body .= "Content-Transfer-Encoding: 8bit".$eol.$eol;
         $body .= $mailtext.$eol;
 

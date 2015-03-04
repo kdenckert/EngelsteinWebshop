@@ -4,8 +4,20 @@
         <figure class="left imgleftalign">
             <section class="theme-default nomargin">
                 <div class="imageSlider nivoSlider nomargin">
-                    <a class="lightbox" href="public/img/httt.png" title="Das ist eine Unterschrift">
-                        <img src="public/img/httt.png" width="100%" alt="Apfelweiß Evo"/>
+                    <a class="lightbox" href="public/img/httt.png" title="Apfelweiß Hoch und Mitteltöner">
+                        <img src="public/img/httt.png" width="100%" alt="Apfelweiß Hoch und Mitteltöner"/>
+                    </a>
+                    <a class="lightbox" href="public/img/httt_zwei.png" title="Apfelweiß Hochtöner">
+                        <img src="public/img/httt_zwei.png" width="100%" alt="Apfelweiß Hochtöner"/>
+                    </a>
+                    <a class="lightbox" href="public/img/httt_drei.png" title="Apfelweiß Hochtöner im Studenten">
+                        <img src="public/img/httt_drei.png" width="100%" alt="Apfelweiß Hochtöner im Studenten"/>
+                    </a>
+                    <a class="lightbox" href="public/img/httt_vier.png" title="Apfelweiß Mitteltöner">
+                        <img src="public/img/httt_vier.png" width="100%" alt="Apfelweiß Mitteltöner"/>
+                    </a>
+                    <a class="lightbox" href="public/img/httt_fuenf.png" title="Apfelweiß Mitteltöner">
+                        <img src="public/img/httt_fuenf.png" width="100%" alt="Apfelweiß Mitteltöner"/>
                     </a>
                 </div>
             </section>

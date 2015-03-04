@@ -6,9 +6,9 @@
         <figure class="left imgleftalign">
             <section class="theme-default nomargin">
                 <div class="imageSlider nivoSlider nomargin">
-                    <a class="lightbox" href="public/img/studio.png" data-lightbox-gallery="gallery1"
-                       title="Das ist eine Unterschrift">
-                        <img src="public/img/studio.png" width="100%" alt="Apfelweiß Evo"/>
+                    <a class="lightbox" href="public/img/studio_student.png" data-lightbox-gallery="gallery1"
+                       title="Der Apfelweiß Student im Tonstudio">
+                        <img src="public/img/studio_student.png" width="100%" alt="Der Apfelweiß Student im Tonstudio"/>
                     </a>
                 </div>
             </section>

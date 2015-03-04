@@ -16,9 +16,14 @@ class OrderController {
     }
 
     public function transferOrderDataToModel($data){
-        $this->OM->saveOrder($_SESSION['items'], $data);
-        $array[]= 'Bestellung wurde entgegengenommen. Bitte schauen Sie in ihr Email Postfach.';
-        return $array;
+        if(!empty($_SESSION['items'])){
+            $this->OM->saveOrder($_SESSION['items'], $data);
+            $array[]= 'Bestellung wurde entgegengenommen. Bitte schauen Sie in ihr Email Postfach.';
+            return $array;
+        }else{
+            header('Location: /startseite');
+            exit();
+        }
     }
 
 

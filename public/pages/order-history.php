@@ -222,7 +222,7 @@
                                     }
                                     echo '
                                     <a href="?page=order-history&amp;archive=' . $val['ordersID'] . '" style="background: green;" class="archiveOrder">Bestellung abschließen</a>
-                                    <a href="http://badass.engelstein.de/tracking&id=' . $val['md5_primary'] . '">Tracking</a>
+                                    <a href="http://engelstein.de/tracking&id=' . $val['md5_primary'] . '">Tracking</a>
 
                                     </nav>
                                 </div>

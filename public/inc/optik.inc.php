@@ -47,6 +47,12 @@
                     <a class="lightbox" href="public/img/logodetail.png" data-lightbox-gallery="gallery6" title="Der Apfelweiß glänzt mit einem Frontlogo aus Zirkon">
                         <img src="public/img/logodetail.png" width="100%" alt="Der Apfelweiß glänzt mit einem Frontlogo aus Zirkon"/>
                     </a>
+                    <a class="lightbox" href="public/img/logodetail_zwei.png" data-lightbox-gallery="gallery6" title="Für das Frontlogo werden nur hochwertige Schmucksteine verwendet">
+                        <img src="public/img/logodetail_zwei.png" width="100%" alt="Der Apfelweiß glänzt mit einem Frontlogo aus Schmuckstein"/>
+                    </a>
+                    <a class="lightbox" href="public/img/logodetail_drei.png" data-lightbox-gallery="gallery6" title="Die handgefertigten Schmucksteine">
+                        <img src="public/img/logodetail_drei.png" width="100%" alt="Der Apfelweiß glänzt mit einem Frontlogo aus Schmuckstein"/>
+                    </a>
                 </div>
             </section>
         </figure>

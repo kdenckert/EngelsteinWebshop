@@ -10,7 +10,7 @@
             Der Apfelweiß erhebt den Anspruch ein modernes zuverlässiges Mischwerkzeug in der täglichen tontechnischen
             Arbeit zu sein. Er begründet diesen Anspruch durch seine klangliche Ausrichung. So erfolgt die Wiedergabe
             der Frequenzen von 65 - 24000Hz besonders linear mit einer Abweichung von gerade einmal +/- 2,5dB. Des
-            weiteren sind die harmonischen Obertöne auf einem Klirrfaktor von ca. 0,1% reduziert. Die Abbildung der
+            weiteren sind die harmonischen Verzerrung auf einem Klirrfaktor von ca. 0,1% reduziert. Die Abbildung der
             Tiefenstaffelung erfolgt ebenfalls in einem besonderen Maße durch die Verwendung spezieller Membranen aus
             harten und leichten Werkstoffen, wie Aluminium und Keramik. Diese Eigenschaften sollen helfen die
             Klanganalyseprozesse der tontechnischen Arbeit zu unterstützen.

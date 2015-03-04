@@ -34,8 +34,8 @@
     <h2>Referenzen</h2>
     <ul class="bxslider">
         <li>
-            <p class="message">"Diese Boxen sind alles was ich mehr je gewünscht habe und mehr, es ist ein fantastisches Hörerlebnis"</p>
-            <p class="quote">Ola Ersfjord - </p>
+            <p class="message">"They look so sexy i cant wait to hear them."</p>
+            <p class="quote">Ola Ersfjord - Schweden</p>
         </li>
     </ul>
 
