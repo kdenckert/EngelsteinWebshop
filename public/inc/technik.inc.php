@@ -38,7 +38,7 @@
             kein anderes elektrisches Bauteil. Sie wird in Handarbeit von unseren Ingenieuren zusammengesetzt, getestet
             und in das Gehäuse eingebracht. Ihre raffinierte Bauweise ermöglicht die Trennung der Hoch- und Mitteltöner
             und ist auch für die Frequenzverteilung zuständig. Als ganz Besondere Zugabe haben wir ausserdem die
-            Möglichkeit einer passiven Raumanpassung integriert. </p>
+            Möglichkeit einer passiven Präsenzanpassung integriert. </p>
 
     </div>
     <div class="first clearfix imgtext">
@@ -61,7 +61,7 @@
 
         <p class="left">
             Jede Abhörsituation weist einzigartige Bedingungen auf, wie unter anderem Raumgröße, Reflektionsflächen oder
-            Abhörposition. Um den dadurch resultierenden Klangverfälschungen entgegen-zuwirken, kann der Apfelweiß an
+            Abhörposition. Um den dadurch resultierenden Klangverfälschungen entgegenzuwirken, kann der Apfelweiß an
             die Abhörsituation angepasst werden. Eine spezielle Anhebung der Höhen ermöglicht es dem Benutzer auf seine
             Umgebung zu reagieren und adaptiv den besseren Klang zu finden. Die Präsenzanpassung bietet drei
             Stufen, mit einer Anhebung von jeweils 2,5dB und 5dB pro Oktave. </p>

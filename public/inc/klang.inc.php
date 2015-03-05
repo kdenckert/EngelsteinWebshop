@@ -32,7 +32,7 @@
         <h3 class="right">Linearer Frequenzverlauf</h3>
 
         <p class="left">
-            Um eine Bewertung der Lautstärkerverteilung von Signalen zu ermöglichen darf der Schallwandler selbst keine
+            Um eine Bewertung der Lautstärkerverteilung von Signalen zu ermöglichen, darf der Schallwandler selbst keine
             Unterschiede der Pegel verursachen. Die wiedergegebenen Frequenzen müssen über das gesamte Frequenzspektrum
             hinweg in Ihrer Lautstärke angeglichen werden. Der Apfelweiß erreicht dabei eine Schwankung von gerade
             einmal +/-2,5dB über den gesamten Frequenzverlauf von 65 - 24000 Hz.

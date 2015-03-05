@@ -47,7 +47,7 @@
             Die Frequenzweiche ist das absolute Herzstück dieses Lautsprechers. Sie definiert die Klangeigenschaften wie
             kein anderes elektrisches Bauteil. Sie wird in Handarbeit von unseren Ingenieuren zusammengesetzt, getestet
             und in das Gehäuse eingebracht. Ihre raffinierte Bauweise ermöglicht die Trennung der Hoch- und Mitteltöner
-            und ist auch für die Frequenzverteilung zuständig. Als ganz Besondere Zugabe haben wir bei dem Produkt Apfelweiß Klassik ausserdem die
+            und ist auch für die Frequenzverteilung zuständig. Als ganz Besondere Zugabe haben wir bei dem Produkt <a href="apfelweiss">Apfelweiß Klassik</a> ausserdem die
             Möglichkeit einer passiven Raumanpassung integriert. </p>
     </div>
 

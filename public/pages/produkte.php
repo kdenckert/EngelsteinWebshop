@@ -8,14 +8,14 @@
         <ul class="left">
             <li>passiver Nahfeldmonitor</li>
             <li>hochwertige und ansprechende Optik</li>
-            <li>passive Raumanpassung</li>
+            <li>passive Präsenzanpassung</li>
             <li>0,75" Keramikhochtöner</li>
             <li>5" Aluminium Tief-, Mitteltöner</li>
             <li>linerarer Frequenzverlauf +/- 2,5 dB</li>
             <li>sehr geringer Klirrfaktor: 0,1 % @ 1 kHz</li>
         </ul>
         <ul class="left">
-            <li>Eingänge: 2 Vollisolierte Kombibuchsen für Bananenstecker/Schraubklemme</li>
+            <li>Eingänge: 2 vollisolierte Kombibuchsen für Bananenstecker/Schraubklemme</li>
             <li>90 W Musikleistung/Nennleistung 60 W</li>
             <li>Schalldruck: 81 dB(SPL) (1 W/1 m)</li>
             <li>Widerstand 4 Ohm</li>

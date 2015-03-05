@@ -20,7 +20,7 @@
             müssen. Besonders in Proberäumen und kleineren Projektstudios kann es zu häufigen Positionswechseln der
             Abhöranlage kommen. Der Apfelweiß Student ist durch sein komplett unbehandeltes Gehäuse perfekt für
             derartige Umstände gerüstet. Sein absichtlich roh wirkendes Gehäuse verzeiht die proberaumtypischen
-            Gebrauchsspuren ähnlich einer Gitarre oder eines Gitarren-verstärkers.</p>
+            Gebrauchsspuren ähnlich einer Gitarre oder eines Gitarrenverstärkers.</p>
     </div>
     <div class="first clearfix imgtext">
         <figure class="right imgrightalign">
@@ -36,10 +36,10 @@
 
         <p class="left">
             Jeder Herstellungsschritt unserer Produkte erfolgt ausschließlich in Deutschland. Damit streben wir an, dass
-            unsere Produkte menschenwürdig hergestellt, Löhne nach guten Standards gezahlt sowie hohe technische
+            unsere Produkte menschenwürdig hergestellt, Löhne nach guten Standards gezahlt, sowie hohe technische
             Anforderungen erfüllt werden. Natürlich stellen wir auch sicher, dass unsere Produkte sowohl in der
-            Herstellung als auch nach deren Benutzung innerhalb der strengen Regeln des ElektroG Umweltgerecht und
-            Ressourcenschonend entsorgt werden.</p>
+            Herstellung als auch nach deren Benutzung innerhalb der strengen Regeln des ElektroG umweltgerecht und
+            ressourcenschonend entsorgt werden.</p>
     </div>
     <div class="first clearfix imgtext">
         <figure class="left imgleftalign">

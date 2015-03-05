@@ -36,7 +36,7 @@ if(isset($_POST['sms_submit'])){
 		<p id="sms_fail">Es gibt nichts zu versenden...</p>
     <?php endif; ?>
     <form id="sms_form" action="<?=$sms_uri ?>" method="post">
-        <textarea maxlength="160" name="sms_text" id="sms_text" rows="9" cols="25" placeholder="Das hier abgegebene Feedback erreicht uns Direkt. Die Reaktion unsererseits könnt ihr unter Infos auf der Feedback-Seite finden."></textarea><br/>
+        <textarea maxlength="160" name="sms_text" id="sms_text" rows="9" cols="25" placeholder="Das hier abgegebene Feedback erreicht uns direkt. Unsere Reaktion könnt ihr unter Infos auf der Feedback-Seite finden."></textarea><br/>
         <input type="submit" value="Abschicken!" name="sms_submit">
     </form>
 </div>

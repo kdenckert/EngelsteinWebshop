@@ -20,7 +20,7 @@
             <p class="left">
                 Die Ausführung "Student" des Apfelweiß verzichtet gänzlich auf die optischen Feinheiten der Klassik
                 Serie. So können wir den Apfelweiß-Student nicht nur kostengünstiger anbieten, er erweist sich außerdem
-                als äußerst Robust gegen z.B. proberaumtypischen Gebrauchsspuren. Er ist der ideale Begleiter bei
-                häufigen Positionswechseln der Abhöranlage oder stark von Musikern beanspruchte Regieräumen.
+                als äußerst robust gegen z.B. proberaumtypischen Gebrauchsspuren. Er ist der ideale Begleiter bei
+                häufigen Positionswechseln der Abhöranlage oder in stark von Musikern beanspruchten Regieräumen.
     </div>
 </section>
